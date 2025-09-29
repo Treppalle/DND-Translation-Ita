@@ -1,0 +1,26 @@
+{
+    "label": "Background (DRS)",
+    "folders": {
+        "Acolyte Equipment": "Equipaggiamento da Acolito",
+        "Acolyte Feature": "Tratti da Acolito"
+    },
+    "entries": {
+        "Acolyte": {
+            "name": "Acolito",
+            "description": "<p>Hai trascorso la tua vita servendo in un tempio dedicato a una divinità o un pantheon. Agisci come intermediario tra il regno sacro e il mondo mortale, celebrando riti sacri e portando offerte per guidare i fedeli verso la presenza divina. Non sei necessariamente un chierico: condurre una cerimonia e incanalare il potere divino sono due cose ben diverse.</p><p>Scegli un dio, un pantheon o un'altra entità di carattere divino tra quelli della sezione « Pantheon storici e mitologici » o quelli che ti propone il tuo DM, e discuti con quest'ultimo i dettagli del tuo servizio religioso. Non eri che un subalterno all'interno del tempio, elevato fin dall'infanzia per assistere i sacerdoti durante i riti sacri? O un gran sacerdote che ha improvvisamente udito l'appello divino che gli ordinava di seguire una via diversa? A meno che tu non abbia diretto una piccola setta distaccata da qualsiasi struttura ecclesiastica, o addirittura una cellula occulta al servizio di un maestro fiélon che hai da allora rinnegato.</p><hr /><p><strong>Competenze:</strong> Intuizione, Religione</p><p><strong>Lingue:</strong> due a scelta</p><p><strong>Equipaggiamento:</strong> un simbolo sacro (regalo ricevuto all'ingresso negli ordini), un libro di preghiere o un mulino a preghiere, 5 bastoncini d'incenso, abiti cerimoniali, abiti comuni e una borsa contenente 15 mo</p><p><strong>Aptitudine:</strong> @UUID[Compendium.dnd5e.backgrounds.Item.64N1NWh9kC1dI7zN]{Rifugio dei credenti}</p><hr /><h3>Suggerimenti per la personalità</h3><p>Il loro percorso all'interno del tempio o della loro comunità religiosa plasma gli acolytes. Le loro abitudini e i loro ideali derivano in gran parte dal loro studio dei precetti della loro fede, e dal loro rapporto con la struttura clericale, la sua gerarchia e i suoi luoghi. Le loro debolezze nascondono spesso una forma di ipocrisia o di eresia, o traducono un ideale o un obbligo spinti all'estremo.</p><p>@UUID[Compendium.dnd5e.tables.RollTable.HDzErjwy3TseLOZX]{Tratti della personalità}</p><p>@UUID[Compendium.dnd5e.tables.RollTable.W9xqQZy0Ad0CwkN2]{Ideale}</p><p>@UUID[Compendium.dnd5e.tables.RollTable.DZhd8JkjqlpCP8EB]{Obbligo}</p><p>@UUID[Compendium.dnd5e.tables.RollTable.COIHGOnoJnmXduad]{Debolezza}</p>",
+            "advancement": {
+                "Feature": {
+                    "title": "Aptitude"
+                }
+            }
+        },
+        "Coin Pouch": {
+            "name": "Sacca delle monete"
+        },
+        "Shelter of the Faithful": {
+            "name": "Rifugio dei fedeli",
+            "description": "<p>Come Acolito, meriti il rispetto di coloro che condividono la tua fede e possono celebrare le cerimonie religiose corrispondenti. Tu e i tuoi compagni di avventura potete contare su cure gratuite e altre attenzioni quando vi presentate ad un tempio, santuario o altro luogo dedicato alla vostra fede (dovete però fornire i materiali richiesti dagli incantesimi). I vostri correligionari vi garantiranno un tenore di vita modesto se necessario (solo per voi).</p><p>Potresti essere molto legato a un tempio specifico della tua divinità o pantheon, in cui hai i tuoi alloggi. Potrebbe essere il tempio in cui hai servito se sei rimasto in buoni rapporti con il suo personale, o un'istituzione in cui hai trovato la tua nuova famiglia. Finché rimani nelle vicinanze di questo tempio, puoi chiedere assistenza ai suoi sacerdoti, a condizione di non metterli in pericolo e di non violare le regole del sito.</p>",
+            "requirements": "Acolito"
+        }
+    }
+}

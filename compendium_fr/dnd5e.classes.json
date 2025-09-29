@@ -1,0 +1,356 @@
+{
+    "label": "Classi (DRS)",
+  "entries": {
+  "Barbarian": {
+      "name": "Barbaro",
+      "description": "<p>Ricevi le seguenti capacità di classe come barbaro.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d12 per livello da barbaro<br /><strong>Punti ferita al 1° livello:</strong> 12 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d12 (o 7) + il tuo modificatore di Costituzione per ogni livello da barbaro oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> armature leggere, armature medie, scudi<br /><strong>Armi:</strong> armi comuni, armi da guerra<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Forza, Costituzione<br /><strong>Abilità:</strong> scegline due tra: Atletica, Addestrare animali, Intimidazione, Natura, Percezione e Sopravvivenza</p><h1>Progressione del Barbaro</h1><table border=\"0\"><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td><td>Furie</td><td>Danni da furia</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO]{Furia}, @UUID[Compendium.dnd5e.classfeatures.Item.SZbsNbaxFFGwBpNK]{Difesa senza armatura}</td><td>2</td><td>+2</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.SCVjqRdlZ9cvHVSR]{Temerarietà}, @UUID[Compendium.dnd5e.classfeatures.Item.vt31lWAULygEl7yk]{Senso del pericolo}</td><td>2</td><td>+2</td></tr><tr><td>3</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.TH1QAf6YNGSeBVjT]{Percorso primordiale}</td><td>3</td><td>+2</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>3</td><td>+2</td></tr><tr><td>5</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.XogoBnFWmCAHXppo]{Attacco extra}, @UUID[Compendium.dnd5e.classfeatures.Item.Kl6zifJ5OmdHlOi2]{Movimento rapido}</td><td>3</td><td>+2</td></tr><tr><td>6</td><td>+3</td><td>Capacità del percorso</td><td>4</td><td>+2</td></tr><tr><td>7</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.NlXslw4yAqmKZWtN]{Istinto selvaggio}</td><td>4</td><td>+2</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>4</td><td>+2</td></tr><tr><td>9</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh]{Colpo critico brutale (1 dado)}</td><td>4</td><td>+3</td></tr><tr><td>10</td><td>+4</td><td>Capacità del percorso</td><td>4</td><td>+3</td></tr><tr><td>11</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.FqfmbPgxiyrWzhYk]{Furia implacabile}</td><td>4</td><td>+3</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>5</td><td>+3</td></tr><tr><td>13</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh]{Colpo critico brutale (2 dadi)}</td><td>5</td><td>+3</td></tr><tr><td>14</td><td>+5</td><td>Capacità del percorso</td><td>5</td><td>+3</td></tr><tr><td>15</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.l8tUhZ5Pecm9wz7I]{Furia persistente}</td><td>5</td><td>+3</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>5</td><td>+4</td></tr><tr><td>17</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh]{Colpo critico brutale (3 dadi)}</td><td>6</td><td>+4</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.Q1exex5ALteprrPo]{Potere indomito}</td><td>6</td><td>+4</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>6</td><td>+4</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.jVU4AgqfrFaqgXns]{Campione primordiale}</td><td>Illimitato</td><td>+4</td></tr></tbody></table><h1>Percorso primordiale</h1><p>@UUID[Compendium.dnd5e.subclasses.Item.uGuDQX9Mz3oHNHkU]{Percorso del berserker}</p>",
+      "advancement": {
+        "Features": {
+          "title": "Capacità"
+        },
+        "Rages": {
+          "title": "Furie"
+        },
+        "Rage Damage": {
+          "title": "Danni da furia"
+        },
+        "Brutal Critical Dice": {
+          "title": "Dadi di Colpo critico brutale"
+        },
+        "Primal Path": {
+          "title": "Percorso primordiale"
+        }
+      }
+    },
+  "Bard": {
+      "name": "Bardo",
+      "description": "<p>Ricevi le seguenti capacità di classe come bardo.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d8 per livello da bardo<br /><strong>Punti ferita al 1° livello:</strong> 8 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d8 (o 5) + il tuo modificatore di Costituzione per ogni livello da bardo oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> armature leggere<br /><strong>Armi:</strong> armi comuni, balestra a mano, spada corta, spada lunga, stocco<br /><strong>Strumenti:</strong> tre strumenti musicali a tua scelta<br /><strong>Tiri salvezza:</strong> Destrezza, Carisma<br /><strong>Abilità:</strong> tre a scelta</p><h1>Progressione del Bardo</h1><table border=\"0\"><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Ispirazione bardica (d6)}, @UUID[Compendium.dnd5e.classfeatures.Item.u4NLajXETJhJU31v]{Incantesimi}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canto riposante (d6)}, @UUID[Compendium.dnd5e.classfeatures.Item.ezWijmCnlnQ9ZRX2]{Tuttologo}</td></tr><tr><td>3</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.ILhzFHiRrqgQ9dFJ]{Collegio bardico}, @UUID[Compendium.dnd5e.classfeatures.Item.aQLg7BWdRnm4Hr9S]{Competenza esperta}</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Ispirazione bardica (d8)}, @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Fonte d'ispirazione}</td></tr><tr><td>6</td><td>+3</td><td>Capacità del Collegio bardico, @UUID[Compendium.dnd5e.classfeatures.Item.SEJmsjkEhdAZ90ki]{Controincanto}</td></tr><tr><td>7</td><td>+3</td><td>Slot incantesimo di livello 4</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>9</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canto riposante (d8)}, Slot incantesimo di livello 5</td></tr><tr><td>10</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Ispirazione bardica (d10)}, @UUID[Compendium.dnd5e.classfeatures.Item.aQLg7BWdRnm4Hr9S]{Competenza esperta}, @UUID[Compendium.dnd5e.classfeatures.Item.aonJ2YjkqkYB9WYB]{Segreti magici}</td></tr><tr><td>11</td><td>+4</td><td>Slot incantesimo di livello 6</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canto riposante (d10)}, Slot incantesimo di livello 7</td></tr><tr><td>14</td><td>+5</td><td>Capacità del Collegio bardico, @UUID[Compendium.dnd5e.classfeatures.Item.aonJ2YjkqkYB9WYB]{Segreti magici}</td></tr><tr><td>15</td><td>+5</td><td>Slot incantesimo di livello 8, @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Ispirazione bardica (d12)}</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canto riposante (d12)}, Slot incantesimo di livello 9</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.aonJ2YjkqkYB9WYB]{Segreti magici}</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.GBYN5rH4nh1ocRlY]{Ispirazione superiore}</td></tr></tbody></table><h1>Collegio bardico</h1><p>@UUID[Compendium.dnd5e.subclasses.Item.MNvsEc4D2ccX7dQT]{Collegio del Sapere}</p>",
+      "advancement": {
+      "Hit Points": {
+      "title": "Punti ferita"
+    },
+    "Expertise": {
+      "title": "Competenza esperta"
+    },
+    "Features": {
+      "title": "Capacità"
+    },
+    "Magical Secrets": {
+      "title": "Segreti magici",
+      "hint": "Scegli due incantesimi da qualsiasi classe, incluso quella del bardo. Ogni incantesimo scelto deve essere di un livello che puoi lanciare come indicato nella tabella «Il bardo» oppure un trucchetto."
+    },
+    "Bardic Inspiration Die": {
+      "title": "Dado di Ispirazione bardica"
+    },
+    "Song of Rest Die": {
+      "title": "Dado di Canto riposante"
+    },
+    "Cantrips Known": {
+      "title": "Trucchetti conosciuti"
+    },
+    "Spells Known": {
+      "title": "Incantesimi conosciuti"
+    },
+    "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+    "Bard College": {
+      "title": "Collegio bardico"
+    }
+  }
+},
+  "Cleric": {
+      "name": "Chierico",
+      "description": "<p>Ricevi le seguenti capacità di classe come chierico.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d8 per livello da chierico<br /><strong>Punti ferita al 1° livello:</strong> 8 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d8 (o 5) + il tuo modificatore di Costituzione per ogni livello da chierico oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> armature leggere, armature medie, scudi<br /><strong>Armi:</strong> armi comuni<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Saggezza, Carisma<br /><strong>Abilità:</strong> scegline due tra: Storia, Intuizione, Medicina, Persuasione e Religione</p><h1>Progressione del Chierico</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.x637K2Icp2ZFM1TB]{Dominio divino}, @UUID[Compendium.dnd5e.classfeatures.Item.v4gKwLhAq9vuqza7]{Incantesimi}</td></tr><tr><td>2</td><td>+2</td><td>Capacità del Dominio divino, @UUID[Compendium.dnd5e.classfeatures.Item.YpiLQEKGalROn7iJ]{Canalizzazione dell'energia divina (1/riposo)}</td></tr><tr><td>3</td><td>+2</td><td>Slot incantesimo di livello 2</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.NMy4piwXIpLjYbRE]{Distruzione dei non morti (GS 1/2)}, Slot incantesimo di livello 3</td></tr><tr><td>6</td><td>+3</td><td>Capacità del Dominio divino, @UUID[Compendium.dnd5e.classfeatures.Item.YpiLQEKGalROn7iJ]{Canalizzazione dell'energia divina (2/riposo)}</td></tr><tr><td>7</td><td>+3</td><td>Slot incantesimo di livello 4</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}, Capacità del Dominio divino, @UUID[Compendium.dnd5e.classfeatures.Item.NMy4piwXIpLjYbRE]{Distruzione dei non morti (GS 1)}</td></tr><tr><td>9</td><td>+4</td><td>Slot incantesimo di livello 5</td></tr><tr><td>10</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.eVXqHn0ojWrEuYGU]{Intervento divino}</td></tr><tr><td>11</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.NMy4piwXIpLjYbRE]{Distruzione dei non morti (GS 2)}, Slot incantesimo di livello 6</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>Slot incantesimo di livello 7</td></tr><tr><td>14</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.NMy4piwXIpLjYbRE]{Distruzione dei non morti (GS 3)}</td></tr><tr><td>15</td><td>+5</td><td>Slot incantesimo di livello 8</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>Capacità del Dominio divino, @UUID[Compendium.dnd5e.classfeatures.Item.NMy4piwXIpLjYbRE]{Distruzione dei non morti (GS 4)}, Slot incantesimo di livello 9</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.YpiLQEKGalROn7iJ]{Canalizzazione dell'energia divina (3/riposo)}</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.eVXqHn0ojWrEuYGU]{Intervento divino (Successo automatico)}</td></tr></tbody></table><h1>Dominio divino</h1><p>@UUID[Compendium.dnd5e.subclasses.Item.H3RYLGqCiqm8BP3q]{Dominio della Vita}</p>",
+      "advancement": {
+      "Hit Points": {
+      "title": "Punti ferita"
+    },
+      "Features": {
+      "title": "Capacità"
+    },
+      "Channel Divinity Uses": {
+      "title": "Utilizzi di Canalizzazione dell'energia divina"
+    },
+      "Destroy Undead CR": {
+      "title": "Distruzione dei non morti GS"
+    },
+      "Cantrips Known": {
+      "title": "Trucchetti conosciuti"
+    },
+      "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+      "Divine Domain": {
+      "title": "Dominio divino"
+    }
+  }
+},
+  "Druid": {
+      "name": "Druido",
+      "description": "<p>Ricevi le seguenti capacità di classe come druido.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d8 per livello da druido<br /><strong>Punti ferita al 1° livello:</strong> 8 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d8 (o 5) + il tuo modificatore di Costituzione per ogni livello da druido oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> armature leggere, armature medie, scudi (i druidi non indossano armature o scudi di metallo)<br /><strong>Armi:</strong> bastone ferrato, scimitarra, pugnale, falce, dardi, fionda, mazza, giavellotto, lancia, mazza ferrata<br /><strong>Strumenti:</strong> kit da erborista<br /><strong>Tiri salvezza:</strong> Intelligenza, Saggezza<br /><strong>Abilità:</strong> scegline due tra: Arcano, Addestrare animali, Intuizione, Medicina, Natura, Percezione, Religione e Sopravvivenza</p><h1>Progressione del Druido</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.LzJ5ayHt0OlSVGxi]{Linguaggio druidico}, @UUID[Compendium.dnd5e.classfeatures.Item.i6tPm3FNK13Ftc9v]{Incantesimi}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.u6Du2P9s81SWuGbi]{Circolo druidico}, @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma selvatica (GS max ¼)}</td></tr><tr><td>3</td><td>+2</td><td>Slot incantesimo di livello 2</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}, @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma selvatica (GS max ½)}</td></tr><tr><td>5</td><td>+3</td><td>Slot incantesimo di livello 3</td></tr><tr><td>6</td><td>+3</td><td>Capacità del Circolo druidico</td></tr><tr><td>7</td><td>+3</td><td>Slot incantesimo di livello 4</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}, @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma selvatica (GS max 1)}</td></tr><tr><td>9</td><td>+4</td><td>Slot incantesimo di livello 5</td></tr><tr><td>10</td><td>+4</td><td>Capacità del Circolo druidico</td></tr><tr><td>11</td><td>+4</td><td>Slot incantesimo di livello 6</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>Slot incantesimo di livello 7</td></tr><tr><td>14</td><td>+5</td><td>Capacità del Circolo druidico</td></tr><tr><td>15</td><td>+5</td><td>Slot incantesimo di livello 8</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>Slot incantesimo di livello 9</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.xvgPu1O57DgXCM86]{Parlare con gli animali}, @UUID[Compendium.dnd5e.classfeatures.Item.cVDEQo0ow1WJT7Wl]{Eterna giovinezza}</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.ip4bvmGoz3qkoqes]{Arcidruido}</td></tr></tbody></table><div class=\"sidebar-block\"><h4>Piante e alberi sacri</h4><p>Un druido considera alcune piante sacre, in particolare ontano, betulla, quercia, frassino, ginepro, vischio, agrifoglio, tasso, nocciolo, salice, sorbo e sambuco. È comune che un druido usi una o più di queste essenze come focalizzatore per gli incantesimi, incorporando rami di quercia, tasso o fili di vischio.</p><p>Allo stesso modo, un druido può usare queste essenze per fabbricare altri oggetti, come armi o scudi. Il tasso, associato alla morte e alla reincarnazione, viene spesso usato per il manico di una scimitarra o di una falce. Il frassino è legato alla vita e la quercia alla forza. Queste essenze sono ottime per manici o armi intere: mazza, bastone ferrato o scudo. L’ontano, associato all’aria, è più adatto per armi da lancio come dardi o giavellotti.</p><p>I druidi provenienti da regioni prive di questa vegetazione scelgono altre piante con usi simili. Un druido del deserto, ad esempio, potrebbe scegliere lo yucca o diverse varietà di cactus.</p></div><div class=\"sidebar-block\"><h4>I druidi e gli dei</h4><p>Alcuni druidi venerano le forze della natura stesse, mentre molti pregano una delle numerose divinità naturali presenti nel multiverso (vedi l’elenco delle divinità in @UUID[Compendium.dnd5e.rules.JournalEntry.udVPA9JW5wy5t3G5]{l’appendice MdJ-B}, che include molte divinità di questo tipo). Il culto di queste divinità è spesso visto come una tradizione arcaica e non come una vera fede dai chierici e dagli abitanti delle città.</p></div><h1>Circolo druidico</h1><p>@UUID[Compendium.dnd5e.subclasses.Item.4Ae2SPZRXEVbVs0M]{Circolo della Terra}</p>",
+      "advancement": {
+      "Hit Points": {
+      "title": "Punti ferita"
+    },
+      "GsMQJqy3R8DVF485": {
+      "hint": "Armature leggere, armature medie, scudi (i druidi non indossano armature o scudi di metallo)"
+    },
+      "Features": {
+      "title": "Capacità"
+    },
+      "Wild Shape CR": {
+      "title": "Forma selvatica GS"
+    },
+      "Cantrips Known": {
+      "title": "Trucchetti conosciuti"
+    },
+      "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+      "Wild Shape Uses": {
+      "title": "Utilizzi di Forma selvatica"
+    },
+      "Druid Circle": {
+	    "title": "Circolo Druidico"
+        }
+      }
+    },
+  "Fighter": {
+      "name": "Guerriero",
+      "description": "<p>Ricevi le seguenti capacità di classe come guerriero.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d10 per livello da guerriero<br /><strong>Punti ferita al 1° livello:</strong> 10 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d10 (o 6) + il tuo modificatore di Costituzione per ogni livello da guerriero oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> tutte le armature, scudi<br /><strong>Armi:</strong> armi comuni, armi da guerra<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Forza, Costituzione<br /><strong>Abilità:</strong> scegline due tra: Acrobazia, Atletica, Addestrare animali, Storia, Intimidazione, Intuizione, Percezione e Sopravvivenza</p><h1>Progressione del Guerriero</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.fbExzwNwEAl2kW9c]{Stile di combattimento}, @UUID[Compendium.dnd5e.classfeatures.Item.nTjmWbyHweXuIqwc]{Secondo fiato}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.xF1VTcJ3AdkbTsdQ]{Slancio d'azione}</td></tr><tr><td>3</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.ax8M0X0q1GGWM26j]{Archetipo marziale}</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.sPy2OLoN7JaAcMl4]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.q9g1MLXuLZyxjQMg]{Attacco extra}</td></tr><tr><td>6</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.sPy2OLoN7JaAcMl4]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>7</td><td>+3</td><td>Capacità dell'Archetipo marziale</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.sPy2OLoN7JaAcMl4]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>9</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.653ZHbNcmm7ZGXbw]{Indomito}</td></tr><tr><td>10</td><td>+4</td><td>Capacità dell'Archetipo marziale</td></tr><tr><td>11</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.q9g1MLXuLZyxjQMg]{Attacco extra (2)}</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.sPy2OLoN7JaAcMl4]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.653ZHbNcmm7ZGXbw]{Indomito (2 utilizzi)}</td></tr><tr><td>14</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.sPy2OLoN7JaAcMl4]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>15</td><td>+5</td><td>Capacità dell'Archetipo marziale</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.sPy2OLoN7JaAcMl4]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.xF1VTcJ3AdkbTsdQ]{Slancio d'azione (2 utilizzi)}, @UUID[Compendium.dnd5e.classfeatures.Item.653ZHbNcmm7ZGXbw]{Indomito (3 utilizzi)}</td></tr><tr><td>18</td><td>+6</td><td>Capacità dell'Archetipo marziale</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.sPy2OLoN7JaAcMl4]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.q9g1MLXuLZyxjQMg]{Attacco extra (3)}</td></tr></tbody></table><h1>Archetipi marziali</h1><p>Ogni guerriero sceglie il proprio approccio per perfezionare l’arte del combattimento. L’archetipo marziale che scegli riflette questa filosofia.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.sprHbe7cRg9osTzf]{Campione}</p>",
+      "advancement": {
+      "Hit Points": {
+      "title": "Punti ferita"
+    },
+      "Features": {
+      "title": "Capacità"
+    },
+      "Fighting Style": {
+      "title": "Stile di combattimento",
+      "hint": "Scegli di specializzarti in uno stile di combattimento particolare. Scegli una delle opzioni seguenti. Non puoi scegliere lo stesso stile di combattimento più di una volta, anche se ottieni nuovamente la possibilità di sceglierne uno."
+    },
+      "Indomitable Uses": {
+      "title": "Utilizzi di Indomito"
+    },
+      "Action Surge Uses": {
+      "title": "Utilizzi di Slancio d'azione"
+    },
+      "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+      "Martial Archetype": {
+      "title": "Archetipo marziale"
+    }
+  }
+},
+  "Monk": {
+    "name": "Monaco",
+    "description": "<p>Ricevi le seguenti capacità di classe come monaco.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d8 per livello da monaco<br /><strong>Punti ferita al 1° livello:</strong> 8 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d8 (o 5) + il tuo modificatore di Costituzione per ogni livello da monaco oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> nessuna<br /><strong>Armi:</strong> armi comuni, spada corta<br /><strong>Strumenti:</strong> un tipo di strumento da artigiano o uno strumento musicale a scelta<br /><strong>Tiri salvezza:</strong> Forza, Destrezza<br /><strong>Abilità:</strong> scegline due tra Acrobazia, Atletica, Furtività, Storia, Intuizione e Religione</p><h1>Progressione del Monaco</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Arti marziali</td><td>Punti ki</td><td>Movimento senza armatura</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>1d4</td><td>—</td><td>—</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.l50hjTxO2r0iecKw]{Arti marziali}, @UUID[Compendium.dnd5e.classfeatures.Item.UAvV7N7T4zJhxdfI]{Difesa senza armatura}</td></tr><tr><td>2</td><td>+2</td><td>1d4</td><td>2</td><td>+3 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.zCeqyQ8uIPNdYJSW]{Movimento senza armatura}, @UUID[Compendium.dnd5e.classfeatures.Item.10b6z2W1txNkrGP7]{Ki}</td></tr><tr><td>3</td><td>+2</td><td>1d4</td><td>3</td><td>+3 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.mzweVbnsJPQiVkAe]{Deviazione dei proiettili}, @UUID[Compendium.dnd5e.classfeatures.Item.rtpQdX77dYWbDIOH]{Tradizione monastica}</td></tr><tr><td>4</td><td>+2</td><td>1d4</td><td>4</td><td>+3 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}, @UUID[Compendium.dnd5e.classfeatures.Item.KQz9bqxVkXjDl8gK]{Caduta rallentata}</td></tr><tr><td>5</td><td>+3</td><td>1d6</td><td>5</td><td>+3 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.XogoBnFWmCAHXppo]{Attacco extra}, @UUID[Compendium.dnd5e.classfeatures.Item.pvRc6GAu1ok6zihC]{Colpo stordente}</td></tr><tr><td>6</td><td>+3</td><td>1d6</td><td>6</td><td>+4,5 m</td><td>Capacità della Tradizione monastica, @UUID[Compendium.dnd5e.classfeatures.Item.7flZKruSSu6dHg6D]{Colpo ki}</td></tr><tr><td>7</td><td>+3</td><td>1d6</td><td>7</td><td>+4,5 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.a4P4DNMmH8CqSNkC]{Schivata perfetta}, @UUID[Compendium.dnd5e.classfeatures.Item.ZmC31XKS4YNENnoc]{Serenità}</td></tr><tr><td>8</td><td>+3</td><td>1d6</td><td>8</td><td>+4,5 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>9</td><td>+4</td><td>1d6</td><td>9</td><td>+4,5 m</td><td>Movimento senza armatura migliorato</td></tr><tr><td>10</td><td>+4</td><td>1d6</td><td>10</td><td>+6 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.bqWA7t9pDELbNRkp]{Purezza del corpo}</td></tr><tr><td>11</td><td>+4</td><td>1d8</td><td>11</td><td>+6 m</td><td>Capacità della Tradizione monastica</td></tr><tr><td>12</td><td>+4</td><td>1d8</td><td>12</td><td>+6 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>1d8</td><td>13</td><td>+6 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.XjuGBeB8Y0C3A5D4]{Linguaggio del sole e della luna}</td></tr><tr><td>14</td><td>+5</td><td>1d8</td><td>14</td><td>+7,5 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.7D2EkLdISwShEDlN]{Anima di diamante}</td></tr><tr><td>15</td><td>+5</td><td>1d8</td><td>15</td><td>+7,5 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.gDH8PMrKvLHaNmEI]{Eterna giovinezza}</td></tr><tr><td>16</td><td>+5</td><td>1d8</td><td>16</td><td>+7,5 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>1d10</td><td>17</td><td>+7,5 m</td><td>Capacità della Tradizione monastica</td></tr><tr><td>18</td><td>+6</td><td>1d10</td><td>18</td><td>+9 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.3jwFt3hSqDswBlOH]{Abbandono dell’anima}</td></tr><tr><td>19</td><td>+6</td><td>1d10</td><td>19</td><td>+9 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>1d10</td><td>20</td><td>+9 m</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.mQNPg89YIs7g5tG4]{Perfezione dell’essere}</td></tr></tbody></table><h1>Tradizione monastica</h1><p>Tre tradizioni monastiche distinte si ritrovano comunemente nei numerosi monasteri del multiverso. Sebbene la maggior parte dei monasteri perpetui una sola tradizione, alcuni ne onorano tutte e tre, insegnando a ogni giovane monaco la...<h1>Tradizione monastica</h1><p>Tre tradizioni monastiche distinte si ritrovano comunemente nei numerosi monasteri del multiverso. Sebbene la maggior parte dei monasteri perpetui una sola tradizione, alcuni ne onorano tutte e tre, insegnando a ogni giovane monaco la via più adatta alle sue inclinazioni e capacità. Le tre tradizioni condividono tecniche fondamentali, divergendo solo quando l’addestramento raggiunge livelli più avanzati. Per questo motivo, un monaco sceglie la propria via solo al 3° livello.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.IvlpKMXX3PmW1NY2]{Via del Palmo}</p>",
+    "advancement": {
+    "Hit Points": {
+      "title": "Punti ferita"
+    },
+    "Purity of Body": {
+      "title": "Purezza del corpo",
+      "hint": "La padronanza del ki che scorre in te è tale da renderti immune a malattie e veleni."
+    },
+    "Features": {
+      "title": "Capacità"
+    },
+    "Martial Arts Die": {
+      "title": "Dado di Arti marziali"
+    },
+    "Unarmored Movement": {
+      "title": "Movimento senza armatura"
+    },
+    "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+    "Monastic Tradition": {
+      "title": "Tradizione monastica"
+    }
+  }
+},
+  "Paladin": {
+    "name": "Paladino",
+    "description": "<p>Ricevi le seguenti capacità di classe come paladino.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d10 per livello da paladino<br /><strong>Punti ferita al 1° livello:</strong> 10 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d10 (o 6) + il tuo modificatore di Costituzione per ogni livello da paladino oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> tutte le armature, scudi<br /><strong>Armi:</strong> armi comuni, armi da guerra<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Saggezza, Carisma<br /><strong>Abilità:</strong> scegline due tra: Atletica, Intimidazione, Intuizione, Medicina, Persuasione e Religione</p><h1>Progressione del Paladino</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.OdrvL3afwLOPeuYZ]{Imposizione delle mani}, @UUID[Compendium.dnd5e.classfeatures.Item.E8ozg8avUVOX9N7u]{Senso divino}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.ySMPQ6zNSlvkrl2f]{Punizione divina}, @UUID[Compendium.dnd5e.classfeatures.Item.ihoQHsmVZlyDbPhX]{Incantesimi}, @UUID[Compendium.dnd5e.classfeatures.Item.Ho7dVxBlOYFlfBHk]{Stile di combattimento}</td></tr><tr><td>3</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.8M7uOPhbTxoxxJSo]{Canalizzazione dell'energia divina}, @UUID[Compendium.dnd5e.classfeatures.Item.dY9yrqkyEDuF0CG2]{Salute divina}, @UUID[Compendium.dnd5e.classfeatures.Item.olAqNsUTIef9x8xC]{Giuramento sacro}</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.XogoBnFWmCAHXppo]{Attacco extra}, Slot incantesimo di livello 2</td></tr><tr><td>6</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.carGDhkIdoduTC0I]{Aura di protezione}</td></tr><tr><td>7</td><td>+3</td><td>Capacità del giuramento sacro</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>9</td><td>+4</td><td>Slot incantesimo di livello 3</td></tr><tr><td>10</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.nahSkBO6LH4HkpaT]{Aura di coraggio}</td></tr><tr><td>11</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.FAk41RPCTcvCk6KI]{Punizione divina migliorata}</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>Slot incantesimo di livello 4</td></tr><tr><td>14</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.U7BIPVPsptBmwsnV]{Contatto purificatore}</td></tr><tr><td>15</td><td>+5</td><td>Capacità del giuramento sacro</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>Slot incantesimo di livello 5</td></tr><tr><td>18</td><td>+6</td><td>Aure potenziate</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>Capacità del giuramento sacro</td></tr></tbody></table><h1>Giuramenti sacri</h1><p>Abbracciare la carriera del paladino significa pronunciare un giuramento che lo impegna sulla via della rettitudine e lo spinge a combattere il male. Il giuramento definitivo, pronunciato al 3° livello, rappresenta il culmine dell’addestramento del paladino. Alcuni personaggi non si considerano veri paladini finché non raggiungono il 3° livello e prestano giuramento. Per altri, il giuramento è solo una formalità che sancisce ciò che hanno sempre sentito nel profondo.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.sZ86mbX8D5PfYuhl]{Giuramento di Devozione}</p><div class=\"sidebar-block\"><h4>Rompere il giuramento</h4><p>Per quanto i paladini cerchino di seguire un’etica rigorosa, anche il più virtuoso può fallire. A volte il cammino giusto è troppo difficile, o una situazione impone una scelta tra due mali, e nel fervore dell’azione un paladino può infrangere il proprio giuramento.</p><p>La tradizione vuole che un paladino che ha infranto un voto cerchi l’assoluzione da un chierico della stessa fede o da un altro paladino dello stesso ordine. Può essere richiesto di pregare per una notte, digiunare o compiere un atto di penitenza. Dopo tale rito di confessione e perdono, il paladino può ricominciare da capo.</p><p>Se invece un paladino infrange deliberatamente il giuramento e non mostra alcun pentimento, le conseguenze possono essere più gravi. A discrezione del DM, un paladino impenitente può essere costretto ad abbandonare questa classe e adottarne un’altra.</p></div>",
+    "advancement": {
+    "Hit Points": {
+      "title": "Punti ferita"
+    },
+    "Divine Health": {
+      "title": "Salute divina",
+      "hint": "La magia divina che scorre in te ti rende immune alle malattie."
+    },
+    "Features": {
+      "title": "Capacità"
+    },
+    "Fighting Style": {
+      "title": "Stile di combattimento",
+      "hint": "Scegli una delle seguenti opzioni. Non puoi scegliere lo stesso stile di combattimento più di una volta, anche se ottieni nuovamente la possibilità di sceglierne uno."
+    },
+    "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+    "Aura Radius": {
+      "title": "Raggio dell’Aura"
+    },
+    "Sacred Oath": {
+      "title": "Giuramento sacro"
+    }
+  }
+},
+  "Ranger": {
+    "name": "Ranger",
+    "description": "<p>Ricevi le seguenti capacità di classe come ranger.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d10 per livello da ranger<br /><strong>Punti ferita al 1° livello:</strong> 10 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d10 (o 6) + il tuo modificatore di Costituzione per ogni livello da ranger oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> armature leggere, armature medie, scudi<br /><strong>Armi:</strong> armi comuni, armi da guerra<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Forza, Destrezza<br /><strong>Abilità:</strong> scegline tre tra: Atletica, Addestrare animali, Furtività, Intuizione, Indagare, Natura, Percezione e Sopravvivenza</p><h1>Progressione del Ranger</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.4Vpj9vCOB37GtXk6]{Nemico prescelto}, @UUID[Compendium.dnd5e.classfeatures.Item.8fbZt2Qh7ZttwIan]{Esploratore nato}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.u6xV3Ki3TXRrD7zg]{Incantesimi}, @UUID[Compendium.dnd5e.classfeatures.Item.nJA3ISVmyj3uPRVM]{Stile di combattimento}</td></tr><tr><td>3</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.1dJHU48yNqn3lcfx]{Archetipo del ranger}, @UUID[Compendium.dnd5e.classfeatures.Item.kaHcUGiwi8AtfZIm]{Vigilanza primitiva}</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.XogoBnFWmCAHXppo]{Attacco extra}, Slot incantesimo di livello 2</td></tr><tr><td>6</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.4Vpj9vCOB37GtXk6]{Miglioramento del Nemico prescelto}, @UUID[Compendium.dnd5e.classfeatures.Item.8fbZt2Qh7ZttwIan]{Miglioramento dell’Esploratore nato}</td></tr><tr><td>7</td><td>+3</td><td>Capacità dell’archetipo del ranger</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}, @UUID[Compendium.dnd5e.classfeatures.Item.C5fzaOBc6HxyOWRn]{Passo terrestre}</td></tr><tr><td>9</td><td>+4</td><td>Slot incantesimo di livello 3</td></tr><tr><td>10</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.8fbZt2Qh7ZttwIan]{Miglioramento dell’Esploratore nato}, @UUID[Compendium.dnd5e.classfeatures.Item.r0unvWK0lPsDthDx]{Camuffamento naturale}</td></tr><tr><td>11</td><td>+4</td><td>Capacità dell’archetipo del ranger</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>Slot incantesimo di livello 4</td></tr><tr><td>14</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.4Vpj9vCOB37GtXk6]{Miglioramento del Nemico prescelto}, @UUID[Compendium.dnd5e.classfeatures.Item.DhU2dWCNnX78TstR]{Scomparsa}</td></tr><tr><td>15</td><td>+5</td><td>Capacità dell’archetipo del ranger</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>Slot incantesimo di livello 5</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.QBVmY56RMQuh6C8h]{Sensi selvaggi}</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.3CaP1vFHVR8LgHjx]{Cacciatore implacabile}</td></tr></tbody></table><h1>Archetipi del ranger</h1><p>L’incarnazione classica dell’ideale del ranger è il Cacciatore.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.uqd2q6WjVfcsaaGb]{Cacciatore}</p>",
+    "advancement": {
+    "Fighting Style": {
+      "hint": "Scegli una delle seguenti opzioni. Non puoi scegliere lo stesso stile di combattimento più di una volta, anche se ottieni nuovamente la possibilità di sceglierne uno.",
+      "title": "Stile di combattimento"
+    },
+    "Hit Points": {
+      "title": "Punti ferita"
+    },
+    "Features": {
+      "title": "Capacità"
+    },
+    "Spells Known": {
+      "title": "Incantesimi conosciuti"
+    },
+    "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+    "Ranger Archetype": {
+      "title": "Archetipo del ranger"
+    }
+  }
+},
+  "Rogue": {
+  "name": "Ladro",
+  "description": "<p>Ricevi le seguenti capacità di classe come ladro.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d8 per livello da ladro<br /><strong>Punti ferita al 1° livello:</strong> 8 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d8 (o 5) + il tuo modificatore di Costituzione per ogni livello da ladro oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> armature leggere<br /><strong>Armi:</strong> armi comuni, balestra a mano, spada corta, spada lunga, stocco<br /><strong>Strumenti:</strong> strumenti da ladro<br /><strong>Tiri salvezza:</strong> Destrezza, Intelligenza<br /><strong>Abilità:</strong> scegline quattro tra: Acrobazia, Atletica, Furtività, Rapidità di mano, Intimidazione, Intuizione, Indagare, Percezione, Persuasione, Intrattenere e Inganno</p><h1>Progressione del Ladro</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Attacco furtivo</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>1d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.ohwfuwnvuoBWlSQr]{Gergo dei ladri}, @UUID[Compendium.dnd5e.classfeatures.Item.DPN2Gfk8yi1Z5wp7]{Attacco furtivo}, @UUID[Compendium.dnd5e.classfeatures.Item.3sYPftQKnbbVnHrh]{Competenza esperta}</td></tr><tr><td>2</td><td>+2</td><td>1d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.01pcLg6PRu5zGrsb]{Astuzia}</td></tr><tr><td>3</td><td>+2</td><td>2d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.80USV8ZFPIahpLd0]{Archetipo del ladro}</td></tr><tr><td>4</td><td>+2</td><td>2d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.v7MxFuTAgOsmxZCD]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>3d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.Mm64SKAHJWYecgXS]{Schivata istintiva}</td></tr><tr><td>6</td><td>+3</td><td>3d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.3sYPftQKnbbVnHrh]{Competenza esperta}</td></tr><tr><td>7</td><td>+3</td><td>4d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.a4P4DNMmH8CqSNkC]{Schivata perfetta}</td></tr><tr><td>8</td><td>+3</td><td>4d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.v7MxFuTAgOsmxZCD]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>9</td><td>+4</td><td>5d6</td><td>Capacità dell’archetipo del ladro</td></tr><tr><td>10</td><td>+4</td><td>5d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.v7MxFuTAgOsmxZCD]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>11</td><td>+4</td><td>6d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.YN9xm6MCvse4Y60u]{Maestria}</td></tr><tr><td>12</td><td>+4</td><td>6d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.v7MxFuTAgOsmxZCD]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>7d6</td><td>Capacità dell’archetipo del ladro</td></tr><tr><td>14</td><td>+5</td><td>7d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.fjsBk7zxoAbLf8ZI]{Percezione cieca}</td></tr><tr><td>15</td><td>+5</td><td>8d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.V4pwFxlwHtNeB4w9]{Mente evasiva}</td></tr><tr><td>16</td><td>+5</td><td>8d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.v7MxFuTAgOsmxZCD]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>9d6</td><td>Capacità dell’archetipo del ladro</td></tr><tr><td>18</td><td>+6</td><td>9d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.L7nJSRosos8sHJH9]{Inafferrabile}</td></tr><tr><td>19</td><td>+6</td><td>10d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.v7MxFuTAgOsmxZCD]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>10d6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.rQhWDaMHMn7iU4f2]{Colpo fortunato}</td></tr></tbody></table><h1>Archetipi del ladro</h1><p>Tutti i ladri condividono un insieme comune di capacità: specializzazione in certe abilità, approccio preciso e letale al combattimento, sviluppo di riflessi fulminei. Tuttavia, i talenti dei ladri possono assumere molte forme, incarnate dagli archetipi del ladro. La scelta dell’archetipo rappresenta l’ideale che persegui; non è necessariamente legata alla professione, ma descrive le tecniche che preferisci.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.k8iuefRorWOjb9gR]{Furfante}</p>",
+  "advancement": {
+    "Hit Points": {
+      "title": "Punti ferita"
+    },
+    "Expertise": {
+      "title": "Competenza esperta"
+    },
+    "Features": {
+      "title": "Capacità"
+    },
+    "Sneak Attack": {
+      "title": "Attacco furtivo"
+    },
+    "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+    "nCjIrANeqoEqGbTA": {
+      "hint": "Hai sviluppato una grande forza mentale. Ottieni competenza nei tiri salvezza su Saggezza."
+    },
+    "Roguish Archetype": {
+      "title": "Archetipo del ladro"
+    }
+  }
+},
+    "Sorcerer": {
+  "name": "Stregone",
+  "description": "<p>Ricevi le seguenti capacità di classe come stregone.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d6 per livello da stregone<br /><strong>Punti ferita al 1° livello:</strong> 6 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d6 (o 4) + il tuo modificatore di Costituzione per ogni livello da stregone oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> nessuna<br /><strong>Armi:</strong> pugnale, dardo, fionda, bastone, balestra leggera<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Costituzione, Carisma<br /><strong>Abilità:</strong> scegline due tra: Arcano, Intimidazione, Intuizione, Persuasione, Religione e Inganno</p><h1>Progressione dello Stregone</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Punti stregoneria</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>—</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.oygRF3ZjTv2T7z0Y]{Incantesimi}, @UUID[Compendium.dnd5e.classfeatures.Item.cmRCL9T9UgRYOj1c]{Origine stregonesca}</td></tr><tr><td>2</td><td>+2</td><td>2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.LBKChJY5n02Afhnq]{Riserva arcana}</td></tr><tr><td>3</td><td>+2</td><td>3</td><td>Slot incantesimo di livello 2, @UUID[Compendium.dnd5e.classfeatures.Item.9Uh7uTDNZ04oTJsL]{Metamagia}</td></tr><tr><td>4</td><td>+2</td><td>4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>5</td><td>Slot incantesimo di livello 3</td></tr><tr><td>6</td><td>+3</td><td>6</td><td>Capacità dell’origine stregonesca</td></tr><tr><td>7</td><td>+3</td><td>7</td><td>Slot incantesimo di livello 4</td></tr><tr><td>8</td><td>+3</td><td>8</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>9</td><td>+4</td><td>9</td><td>Slot incantesimo di livello 5</td></tr><tr><td>10</td><td>+4</td><td>10</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.9Uh7uTDNZ04oTJsL]{Metamagia}</td></tr><tr><td>11</td><td>+4</td><td>11</td><td>Slot incantesimo di livello 6</td></tr><tr><td>12</td><td>+4</td><td>12</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>13</td><td>Slot incantesimo di livello 7</td></tr><tr><td>14</td><td>+5</td><td>14</td><td>Capacità dell’origine stregonesca</td></tr><tr><td>15</td><td>+5</td><td>15</td><td>Slot incantesimo di livello 8</td></tr><tr><td>16</td><td>+5</td><td>16</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>17</td><td>Slot incantesimo di livello 9, @UUID[Compendium.dnd5e.classfeatures.Item.9Uh7uTDNZ04oTJsL]{Metamagia}</td></tr><tr><td>18</td><td>+6</td><td>18</td><td>Capacità dell’origine stregonesca</td></tr><tr><td>19</td><td>+6</td><td>19</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>20</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.F2lEKSmOY0NUruzY]{Ripristino stregonesco}</td></tr></tbody></table><h1>Origini stregonesche</h1><p>Diversi stregoni traggono la propria magia innata da origini differenti, come ad esempio la Stirpe draconica.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.2nadB2MBSHTQ0kcl]{Stirpe draconica}</p>",
+  "advancement": {
+    "Hit Points": {
+      "title": "Punti ferita"
+    },
+    "Features": {
+      "title": "Capacità"
+    },
+    "Metamagic": {
+      "title": "Metamagia"
+    },
+    "Cantrips Known": {
+      "title": "Trucchetti conosciuti"
+    },
+    "Spells Known": {
+      "title": "Incantesimi conosciuti"
+    },
+    "Ability Score Improvement": {
+      "title": "Incremento dei punteggi di caratteristica"
+    },
+    "Sorcerous Origin": {
+      "title": "Origine stregonesca"
+    }
+  }
+},"Warlock": {
+  "name": "Warlock",
+  "description": "<p>Ricevi le seguenti capacità di classe come warlock.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d8 per livello da warlock<br /><strong>Punti ferita al 1° livello:</strong> 8 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d8 (o 5) + il tuo modificatore di Costituzione per ogni livello da warlock oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> armature leggere<br /><strong>Armi:</strong> armi comuni<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Saggezza, Carisma<br /><strong>Abilità:</strong> scegline due tra: Arcano, Storia, Intimidazione, Indagare, Natura, Religione e Inganno</p><h1>Progressione del Warlock</h1><table border=\"0\"><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td><td>Incantesimi conosciuti</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.x6IJZwr6f0SGral7]{Magia del patto}, @UUID[Compendium.dnd5e.classfeatures.Item.jTXHaK0vvT5DV3uO]{Patrono ultraterreno}</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.8MlxM2nEfE3Q0EVk]{Invocazioni arcane}</td><td>2</td></tr><tr><td>3</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.QwgfIpCN8VWfoUtX]{Dono del patto}</td><td>2</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>2</td></tr><tr><td>5</td><td>+3</td><td>Slot incantesimo di livello 3, +1 Invocazione</td><td>3</td></tr><tr><td>6</td><td>+3</td><td>Capacità del patrono ultraterreno</td><td>3</td></tr><tr><td>7</td><td>+3</td><td>Slot incantesimo di livello 4, +1 Invocazione</td><td>4</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>4</td></tr><tr><td>9</td><td>+4</td><td>Slot incantesimo di livello 5, +1 Invocazione</td><td>5</td></tr><tr><td>10</td><td>+4</td><td>Capacità del patrono ultraterreno</td><td>5</td></tr><tr><td>11</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.zB77V8BcCJvWVxck]{Arcanum mistico (6° livello)}</td><td>5</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}, +1 Invocazione</td><td>6</td></tr><tr><td>13</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.zB77V8BcCJvWVxck]{Arcanum mistico (7° livello)}</td><td>6</td></tr><tr><td>14</td><td>+5</td><td>Capacità del patrono ultraterreno</td><td>6</td></tr><tr><td>15</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.zB77V8BcCJvWVxck]{Arcanum mistico (8° livello)}, +1 Invocazione</td><td>7</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>7</td></tr><tr><td>17</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.zB77V8BcCJvWVxck]{Arcanum mistico (9° livello)}</td><td>7</td></tr><tr><td>18</td><td>+6</td><td>+1 Invocazione</td><td>8</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td><td>8</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.0C04rwyvoknvFYiy]{Maestro dell’occulto}</td><td>8</td></tr></tbody></table><div class=\"sidebar-block\"><h4>Il tuo patto</h4><p>Ogni opzione di Patto genera una creatura speciale o un oggetto che riflette la natura oscura del tuo patrono.</p><p><em><strong>Patto della catena.</strong></em> Il tuo famiglio è più astuto di uno normale. La sua forma può riflettere il tuo patrono, come un diavoletto o un quasit nel caso di un Fiélon.</p><p><em><strong>Patto della lama.</strong></em> Se servi un Fiélon, la tua arma potrebbe essere un’ascia di metallo nero decorata con fiamme.</p><p><em><strong>Patto del tomo.</strong></em> Il tuo Codice delle Ombre potrebbe essere un libro pesante rilegato in pelle di demone e borchie di ferro, contenente incantesimi di evocazione e conoscenze proibite sulle regioni più oscure del cosmo, dono del tuo patrono.</p></div><h1>Patroni ultraterreni</h1><p>Le entità che fungono da patroni per i warlock sono potenti creature di altri piani di esistenza: non sono divinità, ma possiedono poteri quasi divini. Questi patroni concedono ai warlock accesso a una gamma di poteri e invocazioni, ma si aspettano favori significativi in cambio.</p><p>Alcuni collezionano warlock dispensando conoscenze mistiche con generosità, talvolta solo per vantarsi della loro capacità di legare i mortali alla propria volontà. Altri sono così restii a condividere il proprio potere che stringono patti con un solo warlock. I warlock al servizio dello stesso patrono possono considerarsi alleati, fratelli o rivali.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.WPFVBg589uI8iOMH]{Il Fiélon}</p>",
+  "advancement": {
+    "Hit Points": {
+      "title": "Punti ferita"
+    },
+    "Features": {
+      "title": "Capacità"
+    },
+    "Eldritch Invocations": {
+      "title": "Invocazioni arcane",
+      "hint": "Se un’invocazione arcana ha dei prerequisiti, devi soddisfarli per apprenderla. Puoi apprendere un’invocazione non appena soddisfi i suoi requisiti. Un prerequisito di livello si riferisce al tuo livello in questa classe."
+    },
+    "Pact Boon": {
+      "title": "Dono del patto"
+    },
+    "Mystic Arcanum (6th level)": {
+      "title": "Arcanum mistico (6° livello)",
+    	"hint": "Scegli come arcanum un incantesimo di 6° livello dalla lista degli incantesimi da warlock."
+  	},
+  "Mystic Arcanum (7th level)": {
+    "title": "Arcanum mistico (7° livello)",
+    "hint": "Scegli come arcanum un incantesimo di 7° livello dalla lista degli incantesimi da warlock."
+  },
+  "Mystic Arcanum (8th level)": {
+    "title": "Arcanum mistico (8° livello)",
+    "hint": "Scegli come arcanum un incantesimo di 8° livello dalla lista degli incantesimi da warlock."
+  },
+  "Mystic Arcanum (9th level)": {
+    "title": "Arcanum mistico (9° livello)",
+    "hint": "Scegli come arcanum un incantesimo di 9° livello dalla lista degli incantesimi da warlock."
+  },
+  "Cantrips Known": {
+    "title": "Trucchetti conosciuti"
+  },
+  "Spells Known": {
+    "title": "Incantesimi conosciuti"
+  },
+  "Ability Score Improvement": {
+    "title": "Incremento dei punteggi di caratteristica"
+  },
+  "Otherworldly Patron": {
+    "title": "Patrono ultraterreno"
+  	}
+	}
+},
+
+   "Wizard": {
+  "name": "Mago",
+  "description": "<p>Ricevi le seguenti capacità di classe come mago.</p><h3>Punti ferita</h3><p><strong>Dado vita:</strong> 1d6 per livello da mago<br /><strong>Punti ferita al 1° livello:</strong> 6 + il tuo modificatore di Costituzione<br /><strong>Punti ferita ai livelli successivi:</strong> 1d6 (o 4) + il tuo modificatore di Costituzione per ogni livello da mago oltre il primo</p><h3>Competenze</h3><p><strong>Armature:</strong> nessuna<br /><strong>Armi:</strong> balestra leggera, bastone ferrato, pugnale, dardi, fionda<br /><strong>Strumenti:</strong> nessuno<br /><strong>Tiri salvezza:</strong> Intelligenza, Saggezza<br /><strong>Abilità:</strong> scegline due tra: Arcano, Storia, Intuizione, Indagare, Medicina e Religione</p><h1>Progressione del Mago</h1><table><thead><tr><td>Livello</td><td>Bonus di competenza</td><td>Capacità</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.e0uTcFPpgxjIyUW9]{Recupero arcano}, @UUID[Compendium.dnd5e.classfeatures.Item.gbNo5eVPaqr8IVKL]{Incantesimi}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.AEWr9EMxy5gj4ZFT]{Tradizione arcana}</td></tr><tr><td>3</td><td>+2</td><td>Slot incantesimo di livello 2</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>5</td><td>+3</td><td>Slot incantesimo di livello 3</td></tr><tr><td>6</td><td>+3</td><td>Capacità della Tradizione arcana</td></tr><tr><td>7</td><td>+3</td><td>Slot incantesimo di livello 4</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>9</td><td>+4</td><td>Slot incantesimo di livello 5</td></tr><tr><td>10</td><td>+4</td><td>Capacità della Tradizione arcana</td></tr><tr><td>11</td><td>+4</td><td>Slot incantesimo di livello 6</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>13</td><td>+5</td><td>Slot incantesimo di livello 7</td></tr><tr><td>14</td><td>+5</td><td>Capacità della Tradizione arcana</td></tr><tr><td>15</td><td>+5</td><td>Slot incantesimo di livello 8</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>17</td><td>+6</td><td>Slot incantesimo di livello 9</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.JfFfHTeIszx1hNRx]{Maestria magica}</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Incremento dei punteggi di caratteristica}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.nUrZDi6QN1YjwAr6]{Incantesimi preferiti}</td></tr></tbody></table><div class=\"sidebar-block\"><h3>Il tuo grimorio</h3><p>Gli incantesimi che aggiungi al tuo grimorio mentre sali di livello riflettono le tue ricerche arcane e le scoperte personali sulla natura del multiverso. Potresti trovare altri incantesimi durante le avventure, come una pergamena nel forziere di una maga malvagia o in un tomo polveroso in una biblioteca antica.</p><p><em><strong>Copiare un incantesimo.</strong></em> Quando trovi un incantesimo da mago di 1° livello o superiore, puoi aggiungerlo al tuo grimorio se è di un livello che puoi preparare e se hai tempo per decifrarlo e copiarlo.</p><p>La trascrizione richiede di riprodurre la struttura base dell’incantesimo, decifrare la notazione del mago che lo ha scritto, praticarlo fino a padroneggiarne suoni e gesti, e infine trascriverlo nel tuo grimorio con la tua notazione personale.</p><p>Questa operazione richiede 2 ore e 50 mo per livello dell’incantesimo. Il costo copre materiali consumati durante gli esperimenti e inchiostri di alta qualità per la trascrizione. Una volta completata, puoi preparare l’incantesimo come tutti gli altri.</p><p><em><strong>Sostituire un grimorio.</strong></em> Puoi copiare un incantesimo dal tuo grimorio in un altro, ad esempio per creare una copia di riserva. La procedura è la stessa, ma più semplice e veloce: richiede solo 1 ora e 10 mo per livello dell’incantesimo.</p><p>Se perdi il grimorio, puoi usare questa procedura per trascrivere gli incantesimi preparati in uno nuovo. Per gli altri, dovrai recuperarli o trovarne di nuovi. Per questo motivo, molti maghi tengono copie di riserva in luoghi sicuri.</p><p><em><strong>Aspetto del grimorio.</strong></em> Il tuo grimorio è un tomo unico, annotato e decorato secondo i tuoi gusti. Potrebbe essere un semplice volume in pelle donato dal tuo maestro, un tomo rilegato trovato in una biblioteca antica, o una raccolta di appunti messi insieme in fretta dopo aver perso il precedente.</p></div><h1>Tradizioni arcane</h1><p>Lo studio delle arti arcane è antichissimo, risalente al momento in cui i mortali scoprirono la magia. È profondamente radicato nei mondi fantasy, con diverse tradizioni dedicate a questa disciplina complessa.</p><p>Le scuole di magia costituiscono la base delle tradizioni arcane in tutto il multiverso. I maghi hanno catalogato migliaia di incantesimi, suddivisi in otto scuole. In alcune terre, queste tradizioni sono vere e proprie accademie; altrove, sono facoltà universitarie in competizione per studenti e fondi. Anche i maghi solitari che formano discepoli nelle loro torri usano questa suddivisione come base didattica, poiché ogni scuola richiede tecniche specifiche.</p><p>@UUID[Compendium.dnd5e.subclasses.Item.Ye5f3FReEnuXfi0y]{Scuola di Evocazione}</p>",
+  "advancement": {
+  "Hit Points": {
+    "title": "Punti ferita"
+  },
+  "Features": {
+    "title": "Capacità"
+  },
+  "Signature Spells": {
+    "title": "Incantesimi preferiti",
+    "hint": "Scegli due incantesimi da mago di 3° livello dal tuo grimorio come incantesimi preferiti."
+  },
+  "Cantrips Known": {
+    "title": "Trucchetti conosciuti"
+  },
+  "Ability Score Improvement": {
+    "title": "Incremento dei punteggi di caratteristica"
+  },
+  "Arcane Tradition": {
+    "title": "Tradizione arcana"
+ 	 }
+	}
+	}
+	}
+}
