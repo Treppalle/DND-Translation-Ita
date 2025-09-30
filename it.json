@@ -4574,55 +4574,55 @@
   "DND5E.ItemSpeciesDetailsLegacy": "Dettagli della razza",
   "DND5E.LegendaryAction": {
     "Label": "Azione leggendaria",
-    "Max": "Numero massimo di azioni Legendarie",
+    "Max": "Numero massimo di Azioni leggendarie",
     "Ordinal": {
-      "one": "{n}re Action légendaire",
-      "two": "{n}de Action légendaire",
-      "few": "{n}e Action légendaire",
-      "other": "{n}e Action légendaire"
+      "one": "{n}° Azione leggendaria",
+      "two": "{n}° Azione leggendaria",
+      "few": "{n}° Azione leggendaria",
+      "other": "{n}° Azione leggendaria"
     },
-    "Remaining": "Actions légendaires restantes",
-    "Description": "Utilisations des actions légendaires : {uses}. Immédiatement après le tour d'une autre créature, le {name} peut dépenser un point d'utilisation pour effectuer l'une des actions suivantes. Le {name} récupère tous les points d'utilisation dépensés au début de chacun de ses tours.",
-    "DescriptionLegacy": "Le {name} peut entreprendre {usesNamed}, à choisir parmi les options ci-après. Une seule option légendaire peut être utilisée à la fois, et uniquement à la fin du tour d'une autre créature. Le {name} récupère les actions légendaires dépensées au début de son tour.",
-    "LairUses": "{normal} ({lair} dans l'antre)",
-    "LabelPl": "Actions légendaires",
-    "Spent": "Actions légendaires dépensées"
+    "Remaining": "Azioni leggendarie rimanenti",
+    "Description": "Usi delle azioni leggendarie: {uses}. Immediatamente dopo il turno di un'altra creatura, il {name} può spendere un punto di utilizzo per effettuare una delle azioni seguenti. Il {name} recupera tutti i punti di utilizzo spesi all'inizio di ciascuno dei suoi turni.",
+    "DescriptionLegacy": "Il {name} può intraprendere {usesNamed}, da scegliere tra le opzioni seguenti. Solo un'opzione leggendaria può essere usata alla volta, e unicamente alla fine del turno di un'altra creatura. Il {name} recupera le azioni leggendarie spese all'inizio del suo turno.",
+    "LairUses": "{normal} ({lair} nel covo)",
+    "LabelPl": "Azioni leggendarie",
+    "Spent": "Azioni leggendarie spese"
   },
-  "DND5E.Loyalty": "Dévouement",
-  "DND5E.ProficiencyOther": "Autre",
-  "DND5E.RacialTraitsLegacy": "Traits raciaux",
+  "DND5E.Loyalty": "Devozione",
+  "DND5E.ProficiencyOther": "Altro",
+  "DND5E.RacialTraitsLegacy": "Tratti razziali",
   "DND5E.NUMBER": {
-    "1": "un",
-    "2": "deux",
-    "3": "trois",
-    "4": "quatre",
-    "5": "cinq",
-    "6": "six",
-    "7": "sept",
-    "8": "huit",
-    "9": "neuf"
+    "1": "uno",
+    "2": "due",
+    "3": "tre",
+    "4": "quattro",
+    "5": "cinque",
+    "6": "sei",
+    "7": "sette",
+    "8": "otto",
+    "9": "nove"
   },
   "DND5E.ProficiencyBonusAbbr": "BM",
-  "DND5E.RechargeLong": "Se recharge après un repos long",
+  "DND5E.RechargeLong": "Si ricarica dopo un riposo lungo",
   "DND5E.ROLL": {
     "Range": {
-      "Label": "Intervalle de jets",
-      "Maximum": "Jet maximum",
-      "Minimum": "Jet minimum"
+      "Label": "Intervallo di tiri",
+      "Maximum": "Tiro massimo",
+      "Minimum": "Tiro minimo"
     },
-    "Section": "Jets de {label}",
-    "Status": "Statut"
+    "Section": "Tiri di {label}",
+    "Status": "Stato"
   },
   "DND5E.SKILL": {
     "SECTIONS": {
       "Global": {
-        "Label": "Bonus globaux",
-        "Hint": "Ces bonus s’appliquent aux tests effectués avec n’importe quelle compétence."
+        "Label": "Bonus globali",
+        "Hint": "Questi bonus si applicano ai test effettuati con qualsiasi abilità."
       },
-      "Details": "Détails de {label}",
+      "Details": "Dettagli di {label}",
       "Bonuses": {
-        "Label": "Bonus de {label}",
-        "Hint": "Ces bonus s'appliquent aux valeurs passifs et aux tests effectués avec {label}."
+        "Label": "Bonus di {label}",
+        "Hint": "Questi bonus si applicano ai valori passivi e ai test effettuati con {label}."
       }
     }
   },
@@ -4630,130 +4630,130 @@
     "SECTIONS": {
       "Bonuses": {
         "Label": "Bonus {label}",
-        "Hint": "Ces bonus s’appliquent aux tests effectués avec {label}."
+        "Hint": "Questi bonus si applicano ai test effettuati con {label}."
       },
       "Global": {
-        "Label": "Bonus globaux",
-        "Hint": "Ces bonus s’appliquent aux tests effectués avec n’importe quel outil."
+        "Label": "Bonus globali",
+        "Hint": "Questi bonus si applicano ai test effettuati con qualsiasi attrezzo."
       },
-      "Details": "Détails {label}"
+      "Details": "Dettagli {label}"
     }
   },
-  "DND5E.TraitDMPlural.one": "Modification des dégâts",
-  "DND5E.TraitDMPlural.other": "Modifications des dégâts",
-  "DND5E.SavingThrowShort": "Sauv.",
-  "DND5E.SpellSlotTemporary": "Emplacement de sort temporaire",
-  "DND5E.Unit": "Unité",
+  "DND5E.TraitDMPlural.one": "Modifica dei danni",
+  "DND5E.TraitDMPlural.other": "Modifiche dei danni",
+  "DND5E.SavingThrowShort": "Salv.",
+  "DND5E.SpellSlotTemporary": "Slot incantesimo temporaneo",
+  "DND5E.Unit": "Unità",
   "DND5E.ORDINAL": {
-    "one": "{number}er",
-    "two": "{number}e",
-    "few": "{number}e",
-    "other": "{number}e"
+    "one": "{number}°",
+    "two": "{number}°",
+    "few": "{number}°",
+    "other": "{number}°"
   },
   "DND5E.VEHICLE": {
     "MOUNTABLE": {
       "FIELDS": {
         "crewed": {
-          "label": "Équipé"
+          "label": "Equipaggiato"
         },
         "hp": {
-          "label": "Points de vie",
+          "label": "Punti ferita",
           "dt": {
-            "label": "Seuil de dégâts"
+            "label": "Soglia di danni"
           },
           "max": {
-            "label": "PV max"
+            "label": "PF max"
           },
           "value": {
-            "label": "PV actuels"
+            "label": "PF attuali"
           },
           "conditions": {
-            "label": "Conditions de santé"
+            "label": "Condizioni di salute"
           }
         },
         "cover": {
-          "hint": "Abri fournie à l'équipage utilisant cet Equipaggiamento.",
-          "label": "Abri"
+          "hint": "Copertura fornita all'equipaggio che usa questo Equipaggiamento.",
+          "label": "Copertura"
         },
         "speed": {
           "conditions": {
-            "label": "Conditions de vitesse"
+            "label": "Condizioni di velocità"
           },
           "value": {
-            "label": "Vitesse"
+            "label": "Velocità"
           }
         }
       }
     }
   },
-  "DND5E.DeathSaveBonus": "Bonus aux Sauvegardes contre la mort",
-  "DND5E.DeathSaveConfigure": "Configurer les JDS contre la mort",
+  "DND5E.DeathSaveBonus": "Bonus ai Tiri Salvezza contro la morte",
+  "DND5E.DeathSaveConfigure": "Configura i TS contro la morte",
   "DND5E.ACTIVEEFFECT": {
     "FIELDS": {
       "statuses": {
-        "label": "États",
-        "hint": "Lorsqu'elle est affectée par cet effet actif, la cible est traitée comme ayant ces états supplémentaires."
+        "label": "Stati",
+        "hint": "Quando è colpita da questo effetto attivo, il bersaglio è trattato come avente questi stati supplementari."
       }
     },
-    "AttributeKeyTooltip": "Pour obtenir la liste des clés courantes, consultez <a href=\"{url}\">le wiki</a>."
+    "AttributeKeyTooltip": "Per ottenere la lista delle chiavi comuni, consulta <a href=\"{url}\">il wiki</a>."
   },
   "DND5E.BONUSES": {
     "FIELDS": {
       "bonuses": {
-        "label": "Bonus globaux",
-        "hint": "Les bonus globaux sont des formules qui s'ajoutent à certains jets.",
+        "label": "Bonus globali",
+        "hint": "I bonus globali sono formule che si aggiungono a certi tiri.",
         "abilities": {
-          "label": "Bonus globaux de caractéristique",
+          "label": "Bonus globali di caratteristica",
           "check": {
-            "label": "Tests de caractéristique"
+            "label": "Test di caratteristica"
           },
           "save": {
-            "label": "Jets de sauvegarde"
+            "label": "Tiri salvezza"
           },
           "skill": {
-            "label": "Tests de compétences"
+            "label": "Test di abilità"
           }
         },
         "msak": {
           "damage": {
-            "label": "Dégâts de sorts de corps à corps"
+            "label": "Danni di incantesimi da mischia"
           },
-          "label": "Bonus aux sorts de mêlée",
+          "label": "Bonus agli incantesimi da mischia",
           "attack": {
-            "label": "Attaque de sorts de corps à corps"
+            "label": "Attacco di incantesimi da mischia"
           }
         },
         "mwak": {
-          "label": "Bonus des Armas de corps à corps",
+          "label": "Bonus delle Armi da mischia",
           "attack": {
-            "label": "Attaque d'Armas de corps à corps"
+            "label": "Attacco di Armi da mischia"
           },
           "damage": {
-            "label": "Dégâts d'Armas de corps à corps"
+            "label": "Danni di Armi da mischia"
           }
         },
         "rsak": {
-          "label": "Bonus aux sorts à distance",
+          "label": "Bonus agli incantesimi a distanza",
           "attack": {
-            "label": "Attaque de sorts à distance"
+            "label": "Attacco di incantesimi a distanza"
           },
           "damage": {
-            "label": "Dégâts de sorts à distance"
+            "label": "Danni di incantesimi a distanza"
           }
         },
         "rwak": {
-          "label": "Bonus aux Armas à distance",
+          "label": "Bonus alle Armi a distanza",
           "attack": {
-            "label": "Attaque d'Armas à distance"
+            "label": "Attacco di Armi a distanza"
           },
           "damage": {
-            "label": "Dégâts d'Armas à distance"
+            "label": "Danni di Armi a distanza"
           }
         },
         "spell": {
-          "label": "Bonus globaux aux sorts",
+          "label": "Bonus globali agli incantesimi",
           "dc": {
-            "label": "Degrés de difficultés des sorts"
+            "label": "Classi Difficoltà degli incantesimi"
           }
         }
       }
@@ -4761,528 +4761,528 @@
   },
   "DND5E.COMBAT": {
     "Group": {
-      "ActiveCount": "{current} sur {combatants}",
-      "Title": "Groupe {name}"
+      "ActiveCount": "{current} su {combatants}",
+      "Title": "Gruppo {name}"
     }
   },
   "DND5E.COMBATANT": {
     "Counted": {
-      "one": "{number} combattant",
-      "other": "{number} combattants"
+      "one": "{number} combattente",
+      "other": "{number} combattenti"
     }
   },
   "DND5E.CONDITIONS": {
     "RiderConditions": {
-      "hint": "Lorsque cet effet actif est appliqué, ces états supplémentaires seront appliquées séparément.",
-      "label": "État séparées"
+      "hint": "Quando questo effetto attivo è applicato, questi stati supplementari saranno applicati separatamente.",
+      "label": "Stati separati"
     }
   },
-  "DND5E.DisplayCard": "Afficher dans le tchat",
-  "KEYBINDINGS.DND5E.DragCopy": "Forcer la copie lors du glissement d'un document",
-  "KEYBINDINGS.DND5E.DragMove": "Forcer le déplacement lors du glissement d'un document",
+  "DND5E.DisplayCard": "Mostra nella chat",
+  "KEYBINDINGS.DND5E.DragCopy": "Forza la copia durante il trascinamento di un documento",
+  "KEYBINDINGS.DND5E.DragMove": "Forza lo spostamento durante il trascinamento di un documento",
   "DND5E.TRANSFORM": {
     "FIELDS": {
       "profiles": {
-        "label": "Profils de transformation",
+        "label": "Profili di trasformazione",
         "element": {
           "cr": {
-            "abbr": "FP",
-            "label": "Facteur de puissance",
-            "hint": "FP maximum de la créature source."
+            "abbr": "GS",
+            "label": "Grado di Sfida",
+            "hint": "GS massimo della creatura sorgente."
           },
           "level": {
-            "label": "Limite de niveau",
-            "hint": "Niveaux requis pour utiliser ce profil.",
+            "label": "Limite di livello",
+            "hint": "Livelli richiesti per usare questo profilo.",
             "max": {
-              "label": "Niveau maximum"
+              "label": "Livello massimo"
             },
             "min": {
-              "label": "Niveau minimum"
+              "label": "Livello minimo"
             }
           },
           "movement": {
-            "label": "Types de mouvement restreints",
-            "hint": "Types de mouvement qui ne sont pas autorisés sur les créatures sources."
+            "label": "Tipi di movimento limitati",
+            "hint": "Tipi di movimento che non sono autorizzati sulle creature sorgenti."
           },
           "name": {
-            "hint": "Nom du profil affiché dans la boîte de dialogue.",
-            "label": "Nom affiché"
+            "hint": "Nome del profilo visualizzato nella finestra di dialogo.",
+            "label": "Nome visualizzato"
           },
           "sizes": {
-            "label": "Tailles de la créature",
-            "hint": "Liste des tailles de créature à partir desquelles la créature source peut être sélectionnée."
+            "label": "Taglie della creatura",
+            "hint": "Lista delle taglie di creatura da cui la creatura sorgente può essere selezionata."
           },
           "types": {
-            "hint": "Liste des types de créature à partir desquels la créature source peut être sélectionnée.",
-            "label": "Types de créature"
+            "hint": "Lista dei tipi di creatura da cui la creatura sorgente può essere selezionata.",
+            "label": "Tipi di creatura"
           },
           "uuid": {
-            "label": "Acteur lié"
+            "label": "Attore collegato"
           }
         }
       },
       "transform": {
-        "label": "Détails de la transformation",
+        "label": "Dettagli della trasformazione",
         "customize": {
-          "label": "Personnaliser",
-          "hint": "Utiliser des paramètres de transformation personnalisés plutôt que ceux par défaut fournis par le préréglage sélectionné."
+          "label": "Personalizza",
+          "hint": "Usare impostazioni di trasformazione personalizzate piuttosto che quelle predefinite fornite dal preset selezionato."
         },
         "identifier": {
-          "label": "Identifiant de classe",
-          "hint": "Identifiant utilisé pour déterminer si le niveau du personnage ou un niveau de classe spécifique doit être utilisé pour les limites de niveau du profil."
+          "label": "Identificatore di classe",
+          "hint": "Identificatore usato per determinare se il livello del personaggio o un livello di classe specifico deve essere usato per i limiti di livello del profilo."
         },
         "mode": {
-          "label": "Mode",
-          "hint": "Définit comment les créatures sources de la transformation sont sélectionnées.",
-          "Direct": "Par lien direct",
-          "CR": "Par facteur de puissance"
+          "label": "Modalità",
+          "hint": "Definisce come le creature sorgenti della trasformazione sono selezionate.",
+          "Direct": "Per collegamento diretto",
+          "CR": "Per grado di sfida"
         },
         "preset": {
-          "label": "Préréglage"
+          "label": "Preset"
         }
       }
     },
     "Setting": {
       "Keep": {
         "Biography": {
-          "Label": "Biographie"
+          "Label": "Biografia"
         },
         "CreatureType": {
-          "Label": "Type de créature"
+          "Label": "Tipo di creatura"
         },
         "Equipment": {
           "Label": "Equipaggiamento"
         },
         "Features": {
-          "Label": "Trattis"
+          "Label": "Talenti"
         },
         "Health": {
-          "Label": "Points de vie & Dés de vie"
+          "Label": "Punti ferita & Dadi vita"
         },
         "Mental": {
-          "Hint": "Conserver les valeurs d'intelligence, de sagesse et de charisme.",
-          "Label": "Caractéristiques mentales"
+          "Hint": "Conservare i valori di intelligenza, saggezza e carisma.",
+          "Label": "Caratteristiche mentali"
         },
         "Physical": {
-          "Hint": "Conserver les valeurs de force, de dextérité et de constitution.",
-          "Label": "Caractéristiques physiques"
+          "Hint": "Conservare i valori di forza, destrezza e costituzione.",
+          "Label": "Caratteristiche fisiche"
         },
         "Proficiency": {
-          "Label": "Bonus de maîtrise"
+          "Label": "Bonus di competenza"
         },
         "Saves": {
-          "Label": "Maîtrises de sauvegarde"
+          "Label": "Competenze di salvezza"
         },
         "Self": {
-          "Hint": "Ne changer que le portrait et l'illustration du token, les autres paramètres seront ignorés.",
-          "Label": "Soi-même"
+          "Hint": "Cambiare solo il ritratto e l'illustrazione del token, le altre impostazioni saranno ignorate.",
+          "Label": "Se stesso"
         },
         "Skills": {
-          "Label": "Maîtrises de compétence"
+          "Label": "Competenze di abilità"
         },
         "Spells": {
-          "Label": "Sorts"
+          "Label": "Incantesimi"
         },
         "Vision": {
-          "Label": "Vision"
+          "Label": "Vista"
         },
         "Languages": {
-          "Label": "Langues"
+          "Label": "Lingue"
         },
         "GearProficiency": {
-          "Label": "Maîtrise de l'Equipaggiamento"
+          "Label": "Competenza dell'Equipaggiamento"
         },
         "Resistances": {
-          "Label": "Résistance aux dégâts"
+          "Label": "Resistenza ai danni"
         }
       },
       "Effects": {
         "All": {
-          "Hint": "Conserver tous les effets, en ignorant tout autre paramètre d'effets.",
-          "Label": "Tous les effets"
+          "Hint": "Conservare tutti gli effetti, ignorando qualsiasi altra impostazione di effetti.",
+          "Label": "Tutti gli effetti"
         },
         "Background": {
-          "Label": "Effets de l'historique"
+          "Label": "Effetti del background"
         },
         "Class": {
-          "Label": "Effets de classe"
+          "Label": "Effetti di classe"
         },
         "Equipment": {
-          "Label": "Effets d'Equipaggiamento"
+          "Label": "Effetti di Equipaggiamento"
         },
         "Feature": {
-          "Label": "Effets d'Tratti"
+          "Label": "Effetti di Talento"
         },
         "Origin": {
-          "Hint": "Conserver tous les effets créés directement sur cet acteur source.",
-          "Label": "Cet acteur"
+          "Hint": "Conservare tutti gli effetti creati direttamente su questo attore sorgente.",
+          "Label": "Questo attore"
         },
         "OtherOrigin": {
-          "Hint": "Conserver tous les effets imposés par un acteur extérieur.",
-          "Label": "Autres acteurs"
+          "Hint": "Conservare tutti gli effetti imposti da un attore esterno.",
+          "Label": "Altri attori"
         },
         "Spell": {
-          "Label": "Effets de sort"
+          "Label": "Effetti di incantesimo"
         }
       },
       "FIELDS": {
         "effects": {
-          "label": "Effets actifs"
+          "label": "Effetti attivi"
         },
         "keep": {
-          "hint": "Ces détails seront conservés depuis l'acteur source.",
-          "label": "Conserver"
+          "hint": "Questi dettagli saranno conservati dall'attore sorgente.",
+          "label": "Conserva"
         },
         "merge": {
-          "hint": "Fusionner ces maîtrises, en conservant celle qui a le modificateur le plus élevé.",
-          "label": "Fusionner"
+          "hint": "Fondere queste competenze, conservando quella che ha il modificatore più alto.",
+          "label": "Fondi"
         },
         "other": {
-          "label": "Autres options"
+          "label": "Altre opzioni"
         },
         "tempFormula": {
-          "hint": "Formule pour les PV temporaires qui seront ajoutés lors de la transformation.",
-          "label": "Formule PV Temp"
+          "hint": "Formula per i PF temporanei che saranno aggiunti durante la trasformazione.",
+          "label": "Formula PF Temp"
         },
         "transformTokens": {
-          "label": "Transformer les tokens"
+          "label": "Trasforma i token"
         },
         "minimumAC": {
-          "hint": "Formule définissant la classe d'armure de la créature transformée, si la CA de l'acteur n'est pas déjà supérieure.",
-          "label": "Classe d'armure minimum"
+          "hint": "Formula che definisce la classe d'armatura della creatura trasformata, se la CA dell'attore non è già superiore.",
+          "label": "Classe d'armatura minima"
         },
         "spellLists": {
-          "hint": "Les sorts figurant sur ces listes de sorts seront conservés si l'acteur possède un objet correspondant.",
-          "label": "Listes des sorts conservés"
+          "hint": "Gli incantesimi presenti in queste liste di incantesimi saranno conservati se l'attore possiede un oggetto corrispondente.",
+          "label": "Liste degli incantesimi conservati"
         }
       },
       "Merge": {
         "Saves": {
-          "Label": "Maîtrises de sauvegarde"
+          "Label": "Competenze di salvezza"
         },
         "Skills": {
-          "Label": "Maîtrises de compétence"
+          "Label": "Competenze di abilità"
         }
       }
     },
     "Action": {
-      "Restore": "Restaurer la transformation",
-      "Transform": "Transformation"
+      "Restore": "Ripristina la trasformazione",
+      "Transform": "Trasformazione"
     },
     "Dialog": {
-      "Title": "Configurer la transformation"
+      "Title": "Configura la trasformazione"
     },
     "Preset": {
       "Appearance": {
-        "Label": "Apparence uniquement"
+        "Label": "Solo aspetto"
       },
-      "Default": "Par défaut",
-      "Label": "Préréglage",
+      "Default": "Predefinito",
+      "Label": "Preset",
       "Polymorph": {
-        "Label": "Métamorphose"
+        "Label": "Metamorfosi"
       },
       "WildShape": {
-        "Label": "Forme sauvage"
+        "Label": "Forma selvatica"
       }
     },
     "Profile": {
       "Action": {
-        "Create": "Créer un profil",
-        "Delete": "Supprimer le profil"
+        "Create": "Crea un profilo",
+        "Delete": "Elimina il profilo"
       },
-      "ChallengeRatingLabel": "Facteur de puissance de {cr} ou inférieur",
-      "Empty": "Cliquez sur le bouton <i class=\"fas fa-plus\"></i> ci-dessus pour créer un profil.",
-      "Label": "Profil de transformation",
-      "DropHint": "Déposer la créature ici"
+      "ChallengeRatingLabel": "Grado di Sfida di {cr} o inferiore",
+      "Empty": "Clicca sul pulsante <i class=\"fas fa-plus\"></i> sopra per creare un profilo.",
+      "Label": "Profilo di trasformazione",
+      "DropHint": "Rilascia la creatura qui"
     },
     "SECTIONS": {
-      "Profiles": "Profils",
-      "Settings": "Paramètres",
-      "Transformation": "Transformation"
+      "Profiles": "Profili",
+      "Settings": "Impostazioni",
+      "Transformation": "Trasformazione"
     },
-    "TemporaryClass": "Classe temporaire",
-    "Title": "Transformer",
+    "TemporaryClass": "Classe temporanea",
+    "Title": "Trasforma",
     "Warning": {
-      "NoOwnership": "Vous n'avez pas la permission de transformer cet acteur.",
-      "NoPermission": "La permission de transformation n'a pas été accordée aux joueurs.",
-      "OriginalActor": "Aucun acteur original trouvé avec l'ID '{reference}'.",
-      "SourceActor": "Aucun acteur trouvé pour la transformation."
+      "NoOwnership": "Non hai il permesso di trasformare questo attore.",
+      "NoPermission": "Il permesso di trasformazione non è stato accordato ai giocatori.",
+      "OriginalActor": "Nessun attore originale trovato con l'ID '{reference}'.",
+      "SourceActor": "Nessun attore trovato per la trasformazione."
     }
   },
-  "SOURCE.BOOK.SRD52": "Document de Référence Système 5.2",
+  "SOURCE.BOOK.SRD52": "Documento di Riferimento di Sistema 5.2",
   "DND5E.JOURNALENTRY": {
     "Navigation": {
-      "Next": "Suivant",
-      "Previous": "Précédent",
-      "Up": "Remonter"
+      "Next": "Successivo",
+      "Previous": "Precedente",
+      "Up": "Su"
     }
   },
-  "SOURCE.BOOK.SRD51": "Document de Référence Système 5.1",
-  "SOURCE.BOOK.FreeRules": "Free Rules",
+  "SOURCE.BOOK.SRD51": "Documento di Riferimento di Sistema 5.1",
+  "SOURCE.BOOK.FreeRules": "Regole Gratuite",
   "DND5E.ITEM": {
     "Category": {
-      "Physical": "Physique",
-      "Label": "Catégorie"
+      "Physical": "Fisico",
+      "Label": "Categoria"
     },
     "Property": {
-      "Adamantine": "Adamantium",
-      "Ammunition": "Munition",
-      "Concentration": "Concentration",
-      "Finesse": "Finesse",
-      "Firearm": "Arma à feu",
-      "Focus": "Focaliseur",
-      "Heavy": "Lourde",
-      "Magical": "Magique",
-      "Reach": "Allonge",
-      "Ritual": "Rituel",
-      "Somatic": "Somatique",
-      "Light": "Légère",
-      "Loading": "Chargement",
-      "Material": "Matérielle",
-      "Returning": "Retour",
-      "Silvered": "Argenté",
-      "Reload": "Rechargement",
-      "Thrown": "Lancer",
-      "TwoHanded": "À deux mains",
-      "Versatile": "Polyvalent",
+      "Adamantine": "Adamantio",
+      "Ammunition": "Munizione",
+      "Concentration": "Concentrazione",
+      "Finesse": "Eleganza",
+      "Firearm": "Arma da fuoco",
+      "Focus": "Focalizzatore",
+      "Heavy": "Pesante",
+      "Magical": "Magico",
+      "Reach": "Portata",
+      "Ritual": "Rituale",
+      "Somatic": "Somatica",
+      "Light": "Leggera",
+      "Loading": "Caricamento",
+      "Material": "Materiale",
+      "Returning": "Ritorno",
+      "Silvered": "Argentato",
+      "Reload": "Ricaricamento",
+      "Thrown": "Lancio",
+      "TwoHanded": "A due mani",
+      "Versatile": "Versatile",
       "Verbal": "Verbale",
-      "Trait": "Trait passif",
-      "WeightlessContents": "Contenu sans poids",
-      "Special": "Spécial",
-      "StealthDisadvantage": "Désavantage de Discrétion",
-      "Sidekick": "Comparses"
+      "Trait": "Tratto passivo",
+      "WeightlessContents": "Contenuto senza peso",
+      "Special": "Speciale",
+      "StealthDisadvantage": "Svantaggio di Furtività",
+      "Sidekick": "Compagni"
     },
     "SECTIONS": {
-      "Activities": "Activités",
-      "Advancement": "Progression",
-      "Contents": "Contenu",
-      "Details": "Détails",
-      "Effects": "Effets",
-      "Description": "Description"
+      "Activities": "Attività",
+      "Advancement": "Progressione",
+      "Contents": "Contenuto",
+      "Details": "Dettagli",
+      "Effects": "Effetti",
+      "Description": "Descrizione"
     }
   },
-  "DND5E.Remaining": "Restant",
+  "DND5E.Remaining": "Rimanente",
   "TYPES.RegionBehavior": {
-    "dnd5e.difficultTerrain": "Terrain difficile",
-    "dnd5e.rotateArea": "Zone de rotation"
+    "dnd5e.difficultTerrain": "Terreno difficile",
+    "dnd5e.rotateArea": "Area di rotazione"
   },
-  "DND5E.Challenge": "Facteur de puissance",
+  "DND5E.Challenge": "Grado di Sfida",
   "DND5E.ENCOUNTER": {
     "Tab": {
-      "Loot": "Butin",
-      "Description": "Description",
-      "Members": "Membres"
+      "Loot": "Bottino",
+      "Description": "Descrizione",
+      "Members": "Membri"
     },
     "Action": {
-      "Award": "Récompense PX et monnaie"
+      "Award": "Ricompensa PE e moneta"
     },
     "Difficulty": {
-      "high": "Difficulté élevée",
-      "low": "Difficulté faible",
-      "moderate": "Difficulté modérée"
+      "high": "Difficoltà elevata",
+      "low": "Difficoltà bassa",
+      "moderate": "Difficoltà moderata"
     },
-    "DropCreature": "Déposer une créature"
+    "DropCreature": "Rilascia una creatura"
   },
-  "DND5E.FlagsHalflingNimbleness": "Agilité halfeline",
+  "DND5E.FlagsHalflingNimbleness": "Agilità halfling",
   "DND5E.SPELLCASTING": {
     "METHODS": {
       "Innate": {
-        "label": "Sorts innés"
+        "label": "Incantesimi innati"
       },
       "Spell": {
-        "label": "Sorts",
+        "label": "Incantesimi",
         "Full": {
-          "label": "Lanceur complet ('full caster' : magicien,druide,clerc,barde,ensorceleur.)"
+          "label": "Incantatore completo"
         },
         "Half": {
-          "label": "1/2 lanceur ('Half Caster' : paladin, rôdeur)"
+          "label": "1/2 incantatore"
         },
         "Third": {
-          "label": "1/3 lanceur ('Third Caster' : Chevalier Occulte, Arnaqueur Arcanique)"
+          "label": "1/3 incantatore"
         },
         "Artificer": {
-          "label": "Artificier"
+          "label": "Artefice"
         }
       },
       "Pact": {
-        "label": "Magie de pacte",
+        "label": "Magia del patto",
         "Full": {
-          "label": "Magie de pacte"
+          "label": "Magia del patto"
         },
-        "abbr": "Pacte"
+        "abbr": "Patto"
       },
       "AtWill": {
-        "label": "À volonté"
+        "label": "A volontà"
       },
       "Ritual": {
-        "label": "Rituel uniquement"
+        "label": "Solo rituale"
       }
     },
     "SLOTS": {
-      "spell0": "Sorts mineurs",
-      "spell1": "1er niveau",
-      "spell2": "2e niveau",
-      "spell3": "3e niveau",
-      "spell4": "4e niveau",
-      "spell5": "5e niveau",
-      "spell6": "6e niveau",
-      "spell7": "7e niveau",
-      "spell8": "8e niveau",
-      "spell9": "9e niveau"
+      "spell0": "Trucchetti",
+      "spell1": "1° livello",
+      "spell2": "2° livello",
+      "spell3": "3° livello",
+      "spell4": "4° livello",
+      "spell5": "5° livello",
+      "spell6": "6° livello",
+      "spell7": "7° livello",
+      "spell8": "8° livello",
+      "spell9": "9° livello"
     },
     "STATES": {
-      "Unprepared": "Non préparé",
-      "Prepared": "Préparé",
-      "AlwaysPrepared": "Toujours préparé"
+      "Unprepared": "Non preparato",
+      "Prepared": "Preparato",
+      "AlwaysPrepared": "Sempre preparato"
     },
-    "Unlabeled": "Incantation sans nom"
+    "Unlabeled": "Incantamento senza nome"
   },
   "DND5E.Travel": {
-    "Label": "Allure de voyage",
+    "Label": "Andatura di viaggio",
     "Pace": {
-      "Slow": "Lente",
-      "Fast": "Rapide",
+      "Slow": "Lenta",
+      "Fast": "Veloce",
       "Normal": "Normale"
     }
   },
-  "TYPES.Actor.encounter": "Rencontre",
-  "TYPES.Actor.encounterPl": "Rencontres",
+  "TYPES.Actor.encounter": "Incontro",
+  "TYPES.Actor.encounterPl": "Incontri",
   "DND5E.ACTOR": {
     "Warning": {
-      "CreateActor": "Vous devez avoir le droit 'Créer de nouveaux acteurs' pour invoquer directement depuis un compendium.",
-      "InvalidItem": "Les objets de type {itemType} ne peuvent être ajoutés à un {actorType}.",
-      "NoActor": "Impossible de trouver l'acteur avec l'UUID '{uuid}' à invoquer.",
-      "Singleton": "Seul un objet de type {itemType} peut être ajouté à un {actorType}."
+      "CreateActor": "Devi avere il diritto 'Creare nuovi attori' per evocare direttamente da un compendio.",
+      "InvalidItem": "Gli oggetti di tipo {itemType} non possono essere aggiunti a un {actorType}.",
+      "NoActor": "Impossibile trovare l'attore con l'UUID '{uuid}' da evocare.",
+      "Singleton": "Solo un oggetto di tipo {itemType} può essere aggiunto a un {actorType}."
     }
   },
-  "DND5E.FlagsHalflingNimblenessHint": "Le déplacement à travers les créatures plus grandes n'est pas bloqué.",
-  "DND5E.FlagsToolExpertise": "Expertise de l'outillage",
-  "DND5E.FlagsToolExpertiseHint": "Double votre bonus de maîtrise pour tout test de caractéristique que vous effectuez en utilisant votre maîtrise d'un outil.",
-  "DND5E.LevelAvg": "Niveau moyen",
-  "DND5E.Method": "Méthode",
-  "DND5E.Preparation": "Préparation",
+  "DND5E.FlagsHalflingNimblenessHint": "Lo spostamento attraverso le creature più grandi non è bloccato.",
+  "DND5E.FlagsToolExpertise": "Expertise dell'attrezzo",
+  "DND5E.FlagsToolExpertiseHint": "Raddoppia il tuo bonus di competenza per qualsiasi test di caratteristica che effettui usando la tua competenza di un attrezzo.",
+  "DND5E.LevelAvg": "Livello medio",
+  "DND5E.Method": "Metodo",
+  "DND5E.Preparation": "Preparazione",
   "DND5E.REGIONBEHAVIORS": {
     "DIFFICULTTERRAIN": {
       "FIELDS": {
         "ignoredDispositions": {
-          "hint": "Les tokens ayant ces dispositions ne seront pas affectés par ce terrain difficile.",
-          "label": "Dispositions ignorées"
+          "hint": "I token con queste disposizioni non saranno colpiti da questo terreno difficile.",
+          "label": "Disposizioni ignorate"
         },
         "magical": {
-          "hint": "Ce Terrain difficile est créé par un effet magique.",
-          "label": "Magique"
+          "hint": "Questo Terreno difficile è creato da un effetto magico.",
+          "label": "Magico"
         },
         "types": {
-          "hint": "Types qui décrivent le mieux l'origine de ce Terrain difficile, le cas échéant.",
-          "label": "Types"
+          "hint": "Tipi che descrivono al meglio l'origine di questo Terreno difficile, se del caso.",
+          "label": "Tipi"
         }
       },
       "Type": {
-        "All": "Tous les types",
-        "Ice": "Verglas",
-        "Magical": "Magique",
-        "Nonmagical": "Non magique",
-        "Plants": "Plantes ou taillis",
-        "Rocks": "Éboulis ou rochers",
-        "Liquid": "Liquide peu profond",
-        "Slope": "Pente raide",
-        "Snow": "Neige profonde"
+        "All": "Tutti i tipi",
+        "Ice": "Ghiaccio",
+        "Magical": "Magico",
+        "Nonmagical": "Non magico",
+        "Plants": "Piante o boscaglia",
+        "Rocks": "Detriti o rocce",
+        "Liquid": "Liquido poco profondo",
+        "Slope": "Pendenza ripida",
+        "Snow": "Neve profonda"
       }
     },
     "ROTATEAREA": {
       "Action": {
-        "AddPosition": "Ajouter une position",
-        "DeletePosition": "Supprimer une position",
-        "RotateToPosition": "Faire pivoter vers la position"
+        "AddPosition": "Aggiungi una posizione",
+        "DeletePosition": "Elimina una posizione",
+        "RotateToPosition": "Ruota verso la posizione"
       },
       "DirectionMode": {
-        "Clockwise": "Sens des aiguilles d'une montre",
-        "CounterClockwise": "Sens inverse des aiguilles d'une montre",
-        "Longest": "Chemin le plus long",
-        "Shortest": "Chemin le plus court"
+        "Clockwise": "Senso orario",
+        "CounterClockwise": "Senso antiorario",
+        "Longest": "Percorso più lungo",
+        "Shortest": "Percorso più corto"
       },
       "FIELDS": {
         "directionMode": {
-          "label": "Mode de direction",
-          "hint": "Détermine comment la direction de la rotation est choisie lors du passage à la position suivante."
+          "label": "Modalità di direzione",
+          "hint": "Determina come viene scelta la direzione di rotazione quando si passa alla posizione successiva."
         },
         "lights": {
           "ids": {
-            "label": "Lumières"
+            "label": "Luci"
           }
         },
         "positions": {
-          "label": "Positions",
+          "label": "Posizioni",
           "element": {
             "angle": {
-              "label": "Angle"
+              "label": "Angolo"
             }
           }
         },
         "regions": {
           "ids": {
-            "label": "Régions"
+            "label": "Regioni"
           }
         },
         "sounds": {
           "ids": {
-            "label": "Sons d'ambiance"
+            "label": "Suoni d'ambiente"
           }
         },
         "tiles": {
           "ids": {
-            "label": "Tuiles"
+            "label": "Piastrelle"
           }
         },
         "time": {
           "mode": {
-            "label": "Mode de vitesse",
-            "hint": "Comment la vitesse de rotation est déterminée à partir du temps de rotation, soit la même quelle que soit la distance parcourue (fixe), soit en fonction de la distance parcourue (variable)."
+            "label": "Modalità di velocità",
+            "hint": "Come viene determinata la velocità di rotazione dal tempo di rotazione, sia la stessa qualunque sia la distanza percorsa (fisso), sia in funzione della distanza percorsa (variabile)."
           },
           "value": {
-            "label": "Temps de rotation",
-            "hint": "Le temps en millisecondes pour faire pivoter vers la position suivante (en mode fixe) ou pour pivoter de 90° (en mode variable)."
+            "label": "Tempo di rotazione",
+            "hint": "Il tempo in millisecondi per ruotare verso la posizione successiva (in modalità fissa) o per ruotare di 90° (in modalità variabile)."
           }
         },
         "walls": {
           "ids": {
-            "label": "Murs"
+            "label": "Muri"
           },
           "link": {
-            "label": "Lier les murs",
-            "hint": "Faites pivoter tous les segments de mur attachés à ceux spécifiés."
+            "label": "Collega i muri",
+            "hint": "Ruota tutti i segmenti di muro attaccati a quelli specificati."
           }
         }
       },
       "SpeedMode": {
-        "Fixed": "Fixe (temps de rotation total)",
-        "Variable": "Variable (temps nécessaire pour effectuer une rotation de 90˚)"
+        "Fixed": "Fisso (tempo di rotazione totale)",
+        "Variable": "Variabile (tempo necessario per effettuare una rotazione di 90°)"
       },
       "Warning": {
-        "RecursiveRegion": "Impossible de faire pivoter la même région qui contient le comportement."
+        "RecursiveRegion": "Impossibile ruotare la stessa regione che contiene il comportamento."
       }
     }
   },
-  "DND5E.MovementIgnoredDifficultTerrain": "Terrain difficile ignoré",
+  "DND5E.MovementIgnoredDifficultTerrain": "Terreno difficile ignorato",
   "DND5E.SheetClass": {
-    "Character": "Feuille de personnage 5e par défaut",
-    "ClassSummary": "Feuille de résumé des classes 5e par défaut",
-    "Container": "Feuille de conteneur 5e par défaut",
-    "DifficultTerrain": "Feuille de Terrain difficile 5e par défaut",
-    "Encounter": "Feuille de rencontre 5e par défaut",
-    "Group": "Feuille de groupe 5e par défaut",
-    "Item": "Feuille d'objet 5e par défaut",
-    "JournalEntry": "Feuille de journal 5e par défaut",
-    "JournalEntryLegacy": "Feuille de journal 5e historique",
-    "MapLocation": "Feuille de carte 5e par défaut",
-    "NPC": "Feuille de PNJ 5e par défaut",
-    "RotateArea": "Feuille de zone de rotation 5e par défaut",
-    "Rule": "Feuille de règles 5e par défaut",
-    "SpellList": "Feuille de liste de sorts 5e par défaut",
-    "Token": "Feuille de token 5e par défaut",
-    "Vehicle": "Feuille de véhicule 5e par défaut"
+    "Character": "Scheda personaggio 5e predefinita",
+    "ClassSummary": "Scheda di riepilogo delle classi 5e predefinita",
+    "Container": "Scheda di contenitore 5e predefinita",
+    "DifficultTerrain": "Scheda di Terreno difficile 5e predefinita",
+    "Encounter": "Scheda di incontro 5e predefinita",
+    "Group": "Scheda di gruppo 5e predefinita",
+    "Item": "Scheda d'oggetto 5e predefinita",
+    "JournalEntry": "Scheda di diario 5e predefinita",
+    "JournalEntryLegacy": "Scheda di diario 5e storica",
+    "MapLocation": "Scheda di mappa 5e predefinita",
+    "NPC": "Scheda di PNG 5e predefinita",
+    "RotateArea": "Scheda di area di rotazione 5e predefinita",
+    "Rule": "Scheda di regole 5e predefinita",
+    "SpellList": "Scheda di lista di incantesimi 5e predefinita",
+    "Token": "Scheda di token 5e predefinita",
+    "Vehicle": "Scheda di veicolo 5e predefinita"
   },
-  "DND5E.SkillRoll": "Test de {ability} ({skill})",
-  "DND5E.SpellLevelSpell": "{level} ({n} Emplacements)",
-  "DND5E.Summary": "Résumé"
+  "DND5E.SkillRoll": "Test di {ability} ({skill})",
+  "DND5E.SpellLevelSpell": "{level} ({n} Slot)",
+  "DND5E.Summary": "Riepilogo"
 }
