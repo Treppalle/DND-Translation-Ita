@@ -1,5 +1,5 @@
 {
-    "id": "dnd5e_it-IT",
+    "id": "DND-Translation-Ita",
     "title": "IT - Dungeon & Dragons",
     "version": "1.0.0",
     "description": "<p>Traduzione del sistema D&D5 [Atropos]. L'installazione del modulo Babele è necessaira per il compendio [texte du DRS 5.1]</p><p> *** Ringrazio gli amici francesi per l'aiuto indiretto Discord :<a href=\"https://discord.gg/pPSDNJk\"> https://discord.gg/pPSDNJk </a></p><p> ",
@@ -56,6 +56,6 @@
         }
     },
     "manifest": "https://github.com/Treppalle/DND-Translation-Ita/releases/latest/download/module.json",
-    "download": "https://github.com/Treppalle/DND-Translation-Ita/releases/latest/download/DND-Translation-Ita-1.0.zip",
+    "download": "https://github.com/Treppalle/DND-Translation-Ita/releases/latest/download/DND-Translation-Ita.zip",
     "url": "https://github.com/Treppalle/DND-Translation-Ita"
     }
