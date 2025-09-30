@@ -30,7 +30,12 @@
             }
         ]
     },
-    "authors": "https://github.com/Treppalle",
+    "authors": [
+        {
+      "name": "Treppalle",
+      "flags": {}
+        }
+    ],
     "esmodules": [
         "babele-register.js"
     ],
