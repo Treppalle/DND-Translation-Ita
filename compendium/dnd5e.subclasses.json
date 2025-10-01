@@ -1,134 +1,134 @@
 {
-  "label": "Sous-classes (SDR)",
+  "label": "Sottoclassi (SRD)",
   "entries": {
     "Champion": {
-      "name": "Champion",
-      "description": "<p>Le champion est l’incarnation du guerrier voué tout entier à devenir un instrument de mort en exploitant à la perfection sa puissance physique. Ceux qui suivent cet archétype allient entraînement rigoureux et excellence physique afin d’asséner des coups dévastateurs.</p>",
+      "name": "Campione",
+      "description": "<p>Il campione è l'incarnazione del guerriero votato interamente a diventare uno strumento di morte sfruttando alla perfezione la sua potenza fisica. Coloro che seguono questo archetipo uniscono addestramento rigoroso ed eccellenza fisica al fine di infliggere colpi devastanti.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         },
         "Additional Fighting Style": {
-          "title": "Style de combat supplémentaire",
-          "hint": "Choisissez un second style de combat dans la liste de cette aptitude de classe."
+          "title": "Stile di combattimento aggiuntivo",
+          "hint": "Scegli un secondo stile di combattimento dalla lista di questa capacità di classe."
         }
       }
     },
     "Circle of the Land": {
-      "name": "Cercle de la Terre",
-      "description": "<p>Le Cercle de la Terre réunit des mystiques et des sages chargés de perpétuer d’antiques connaissances et rites au moyen d’une tradition orale considérable. Ces druides se rassemblent dans des cercles sacrés faits d’arbres ou de menhirs pour se murmurer des secrets primitifs en langue druidique. Les membres les plus sages du cercle font office de grands prêtres dans les communautés restées fidèles à la religion des temps anciens et conseillent leurs dirigeants. En tant que membre de ce cercle, votre magie est influencée par le type de terrain sur lequel vous avez subi l’initiation à ses mystères.</p>",
+      "name": "Circolo della Terra",
+      "description": "<p>Il Circolo della Terra riunisce mistici e saggi incaricati di perpetuare antiche conoscenze e riti tramite una considerevole tradizione orale. Questi druidi si riuniscono in cerchi sacri fatti di alberi o menhir per sussurrarsi segreti primordiali in lingua druidica. I membri più saggi del circolo fungono da sommi sacerdoti nelle comunità rimaste fedeli alla religione dei tempi antichi e consigliano i loro dirigenti. Come membro di questo circolo, la tua magia è influenzata dal tipo di terreno sul quale hai subito l'iniziazione ai suoi misteri.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     },
     "College of Lore": {
-      "name": "Collège du Savoir",
-      "description": "<p>Les connaissances des bardes du Collège du Savoir portent sur presque tous les sujets, les bribes de savoir qu’ils détiennent allant des manuscrits les plus savants aux contes ruraux. Qu’ils entonnent une ballade populaire dans une taverne ou interprètent une composition complexe à la cour d’un roi, ces bardes usent de leurs talents pour captiver l’auditoire. Et quand les applaudissements cessent, l’auditoire se surprend parfois à remettre en question certaines évidences, comme sa foi dans le clergé local ou sa loyauté envers le souverain du cru.</p>\n<p>La loyauté de ces bardes est tout entière vouée à la quête de la beauté et de la vérité, nullement à l’obéissance aveugle envers un monarque ou un dogme religieux. Un noble qui emploie un tel barde comme héraut ou conseiller sait que ce dernier adoptera toujours une posture plus honnête que politique.</p>\n<p>Les membres de ce collège se réunissent dans des bibliothèques et parfois dans de véritables universités, avec salles de classe et dortoirs, afin de confronter leurs connaissances. Ils se rencontrent aussi à l’occasion de festivals ou lors d’une réunion entre gens de pouvoir, où il leur est loisible de dénoncer la corruption, de démêler les mensonges et de railler ces figures d’autorité gonflées d’importance.</p>",
+      "name": "Collegio della Conoscenza",
+      "description": "<p>Le conoscenze dei bardi del Collegio della Conoscenza riguardano quasi tutti i soggetti, i frammenti di sapere che detengono vanno dai manoscritti più dotti ai racconti rurali. Che intonino una ballata popolare in una taverna o interpretino una composizione complessa alla corte di un re, questi bardi usano i loro talenti per catturare l'uditorio. E quando gli applausi cessano, l'uditorio a volte si sorprende a mettere in discussione certe evidenze, come la sua fede nel clero locale o la sua lealtà verso il sovrano del posto.</p>\n<p>La lealtà di questi bardi è interamente votata alla ricerca della bellezza e della verità, non all'obbedienza cieca verso un monarca o un dogma religioso. Un nobile che impiega un tale bardo come araldo o consigliere sa che quest'ultimo adotterà sempre una postura più onesta che politica.</p>\n<p>I membri di questo collegio si riuniscono in biblioteche e talvolta in vere università, con aule e dormitori, per confrontare le loro conoscenze. Si incontrano anche in occasione di festival o durante una riunione tra persone di potere, dove hanno modo di denunciare la corruzione, dipanare le menzogne e schernire quelle figure di autorità gonfie di importanza.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         },
         "Additional Magical Secrets": {
-          "title": "Secrets magiques supplémentaires",
-          "hint": "Apprenez deux sorts de votre choix, issus de la liste de n'importe quelle classe. Chaque sort choisi doit être d'un niveau que vous pouvez lancer comme indiqué sur la table « Le barde » ou un sort mineur."
+          "title": "Segreti magici aggiuntivi",
+          "hint": "Apprendi due incantesimi a tua scelta, tratti dalla lista di qualsiasi classe. Ogni incantesimo scelto deve essere di un livello che puoi lanciare come indicato sulla tabella \"Il Bardo\" o un trucchetto."
         }
       }
     },
     "Draconic Bloodline": {
-      "name": "Lignée draconique",
-      "description": "<p>Votre magie innée provient de la magie draconique qui s’est mêlée à votre sang ou à celui de vos ancêtres. Le plus souvent, les ensorceleurs de cette origine peuvent remonter jusqu’à un puissant ensorceleur des temps anciens ayant conclu un pacte avec un dragon, à moins que cet ancêtre ait lui-même eu un parent dragon. Si certaines de ces lignées sont bien implantées, la plupart restent obscures. Tout ensorceleur peut fort bien être le premier d’une nouvelle lignée, à la suite d’un pacte ou de toute autre circonstance exceptionnelle.</p>",
+      "name": "Stirpe Draconica",
+      "description": "<p>La tua magia innata proviene dalla magia draconica che si è mescolata al tuo sangue o a quello dei tuoi antenati. Più spesso, gli stregoni di questa origine possono risalire fino a un potente stregone dei tempi antichi che ha concluso un patto con un drago, a meno che questo antenato non abbia lui stesso avuto un genitore drago. Se alcune di queste stirpi sono ben radicate, la maggior parte resta oscura. Qualsiasi stregone può benissimo essere il primo di una nuova stirpe, a seguito di un patto o di qualsiasi altra circostanza eccezionale.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     },
     "Hunter": {
-      "name": "Chasseur",
-      "description": "<p>Adopter l’archétype du chasseur, c’est accepter de devenir le rempart entre la civilisation et les terreurs issues des contrées sauvages. En arpentant la voie du chasseur, vous apprenez des techniques spéciales permettant de mieux combattre les menaces auxquelles vous faites face, qu’il s’agisse d’ogres déchaînés, de hordes d’orcs, de géants ou de terrifiants dragons.</p>",
+      "name": "Cacciatore",
+      "description": "<p>Adottare l'archetipo del cacciatore significa accettare di diventare il baluardo tra la civilizzazione e i terrori provenienti dalle contrade selvagge. Percorrendo la via del cacciatore, apprendi tecniche speciali che permettono di combattere meglio le minacce che affronti, che si tratti di orchi scatenati, orde di orchetti, giganti o terrificanti draghi.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         },
         "Hunter's Prey": {
-          "title": "Proie du chasseur"
+          "title": "Preda del cacciatore"
         },
         "Defensive Tactics": {
-          "title": "Tactiques défensives"
+          "title": "Tattiche difensive"
         },
         "Multiattack": {
-          "title": "Attaques multiples"
+          "title": "Attacchi multipli"
         },
         "Superior Hunter's Defense": {
-          "title": "Défense de chasseur supérieure"
+          "title": "Difesa del cacciatore superiore"
         }
       }
     },
     "Life Domain": {
-      "name": "Domaine de la Vie",
-      "description": "<p>Le domaine de la Vie est centré sur l’énergie positive, l’une des forces fondamentales de l’univers, à l’origine de toute forme de vie. Les dieux de la Vie favorisent la vitalité et la santé en soignant les malades et les blessés, en veillant sur les indigents et en détruisant les forces de la non-vie. La grande majorité des divinités non mauvaises exercent une influence sur ce domaine, notamment les dieux et déesses agricoles (comme Chauntéa, Arawai et Déméter), les dieux du soleil (comme Lathandre, Pélor et Rê-Horakhty), les dieux de la guérison et de l’endurance (comme Ilmater, Mishakal, Apollon et Diancecht) et les dieux du foyer et de la communauté (comme Hestia, Hathor et Boldrei).</p><table><caption>Sorts du domaine de la Vie</caption><thead><tr><td>Niveau de clerc</td><td>Sorts</td></tr></thead><tbody><tr><td>1</td><td>@UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{Bénédiction}, @UUID[Compendium.dnd5e.spells.Item.uUWb1wZgtMou0TVP]{Soins}</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells.Item.JbxsYXxSOTZbf9I0]{Arme spirituelle}, @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Restauration partielle}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Lueur d'espoir}, @UUID[Compendium.dnd5e.spells.Item.LmRHHMtplpxr9fX6]{Retour à la vie}</td></tr><tr><td>7</td><td>@UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Gardien de la foi}, @UUID[Compendium.dnd5e.spells.Item.VtCXMdyM6mAdIJZb]{Protection contre la mort}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{Rappel à la vie}, @UUID[Compendium.dnd5e.spells.Item.Pyzmm8R7rVsNAPsd]{Soins de groupe}</td></tr></tbody></table>",
+      "name": "Dominio della Vita",
+      "description": "<p>Il dominio della Vita è incentrato sull'energia positiva, una delle forze fondamentali dell'universo, all'origine di ogni forma di vita. Gli dei della Vita favoriscono la vitalità e la salute curando i malati e i feriti, vegliando sugli indigenti e distruggendo le forze della non-vita. La grande maggioranza delle divinità non malvagie esercita un'influenza su questo dominio, inclusi gli dei e le dee agricole (come Chauntea, Arawai e Demetra), gli dei del sole (come Lathander, Pelor e Ra-Horakhty), gli dei della guarigione e della resistenza (come Ilmater, Mishakal, Apollo e Diancecht) e gli dei del focolare e della comunità (come Estia, Hathor e Boldrei).</p><table><caption>Incantesimi del dominio della Vita</caption><thead><tr><td>Livello da chierico</td><td>Incantesimi</td></tr></thead><tbody><tr><td>1</td><td>@UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{Benedizione}, @UUID[Compendium.dnd5e.spells.Item.uUWb1wZgtMou0TVP]{Curare Ferite}</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells.Item.JbxsYXxSOTZbf9I0]{Arma Spirituale}, @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Ristorare Inferiore}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Faro di Speranza}, @UUID[Compendium.dnd5e.spells.Item.LmRHHMtplpxr9fX6]{Rianimare}</td></tr><tr><td>7</td><td>@UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Guardiano della Fede}, @UUID[Compendium.dnd5e.spells.Item.VtCXMdyM6mAdIJZb]{Protezione dalla Morte}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{Richiamare in Vita}, @UUID[Compendium.dnd5e.spells.Item.Pyzmm8R7rVsNAPsd]{Curare Ferite di Massa}</td></tr></tbody></table>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         },
         "Divine Strike Damage": {
-          "title": "Dégâts d'Impact divin"
+          "title": "Danni da Colpo Divino"
         }
       }
     },
     "Oath of Devotion": {
-      "name": "Serment de Dévotion",
-      "description": "<p>Le Serment de Dévotion lie un paladin aux idéaux les plus élevés de justice, de vertu et d’ordre. Parfois appelés cavaliers, chevaliers blancs ou guerriers saints, ces paladins sont l’incarnation du chevalier en armure étincelante, agissant avec honneur au nom de la justice et du bien commun. Ils respectent un code de conduite des plus rigoureux et certains, pour le meilleur ou le pire, imposent au reste du monde cette même rigueur. Beaucoup de ceux qui prêtent ce serment sont les fidèles serviteurs d’une divinité loyale bonne et mesurent leur propre dévotion à l’aune des préceptes de ce dieu. Considérant les anges, parfaits serviteurs du bien, comme un idéal vers lequel tendre, il n’est pas rare qu’ils parent leur heaume ou leurs armoiries d’ailes angéliques. </p><h4>Préceptes de dévotion</h4><p>Si les termes exacts et les restrictions varient d’un serment de dévotion à l’autre, tous les paladins ayant prononcé ce serment partagent les préceptes ci-dessous.</p><p><strong>Honnêteté.</strong> Ne jamais mentir ni tricher. Que ma parole ait toujours valeur de promesse.</p><p><strong>Courage.</strong> Ne jamais avoir peur d’agir, même s’il est sage de se montrer prudent.</p><p><strong>Compassion.</strong> Aider son prochain, protéger les faibles et châtier ceux qui les menacent. Faire preuve de miséricorde envers l’ennemi si telle est la voie de la sagesse.</p><p><strong>Honneur.</strong> Traiter autrui avec équité et faire en sorte que ses propres actes honorables soient un exemple. Faire le plus de bien possible en causant le moins de mal.</p><p><strong>Devoir.</strong> Se tenir responsable de ses actes et de leurs conséquences, veiller sur mes subalternes et obéir à ceux qui exercent une juste autorité sur moi.</p><h4>Sorts de serment</h4><p>Vous recevez des sorts de serment aux niveaux de paladin indiqués.</p><table><caption>Sorts du Serment de Dévotion</caption><thead><tr><td>Niveau de paladin</td><td>Sorts</td></tr></thead><tbody><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells.Item.xmDBqZhRVrtLP8h2]{Protection contre le mal et le bien}, @UUID[Compendium.dnd5e.spells.Item.gvdA9nPuWLck4tBl]{Sanctuaire}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Restauration partielle}, @UUID[Compendium.dnd5e.spells.Item.CylBa7jR8DSbo8Z3]{Zone de vérité}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{Dissipation de la magie}, @UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Lueur d'espoir}</td></tr><tr><td>13</td><td>@UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Gardien de la foi}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Liberté de mouvement}</td></tr><tr><td>17</td><td>@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Colonne de flamme}, @UUID[Compendium.dnd5e.spells.Item.d54VDyFulD9xxY7J]{Communion}</td></tr></tbody></table>",
+      "name": "Giuramento di Devozione",
+      "description": "<p>Il Giuramento di Devozione lega un paladino agli ideali più elevati di giustizia, virtù e ordine. Talvolta chiamati cavalieri, cavalieri bianchi o guerrieri santi, questi paladini sono l'incarnazione del cavaliere in armatura scintillante, che agisce con onore in nome della giustizia e del bene comune. Rispettano un codice di condotta dei più rigorosi e alcuni, nel bene o nel male, impongono al resto del mondo questo stesso rigore. Molti di coloro che prestano questo giuramento sono i fedeli servitori di una divinità leale buona e misurano la propria devozione secondo i precetti di questo dio. Considerando gli angeli, perfetti servitori del bene, come un ideale verso cui tendere, non è raro che ornino il loro elmo o le loro armi con ali angeliche.</p><h4>Precetti di devozione</h4><p>Se i termini esatti e le restrizioni variano da un giuramento di devozione all'altro, tutti i paladini che hanno pronunciato questo giuramento condividono i precetti qui sotto.</p><p><strong>Onestà.</strong> Non mentire né imbrogliare mai. Che la mia parola abbia sempre valore di promessa.</p><p><strong>Coraggio.</strong> Non aver mai paura di agire, anche se è saggio mostrarsi prudenti.</p><p><strong>Compassione.</strong> Aiutare il prossimo, proteggere i deboli e punire coloro che li minacciano. Dar prova di misericordia verso il nemico se tale è la via della saggezza.</p><p><strong>Onore.</strong> Trattare gli altri con equità e far sì che le proprie azioni onorevoli siano un esempio. Fare il più bene possibile causando il minor male.</p><p><strong>Dovere.</strong> Ritenersi responsabili dei propri atti e delle loro conseguenze, vegliare sui propri subalterni e obbedire a coloro che esercitano una giusta autorità su di me.</p><h4>Incantesimi di giuramento</h4><p>Ricevi incantesimi di giuramento ai livelli da paladino indicati.</p><table><caption>Incantesimi del Giuramento di Devozione</caption><thead><tr><td>Livello da paladino</td><td>Incantesimi</td></tr></thead><tbody><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells.Item.xmDBqZhRVrtLP8h2]{Protezione dal Bene e dal Male}, @UUID[Compendium.dnd5e.spells.Item.gvdA9nPuWLck4tBl]{Santuario}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Ristorare Inferiore}, @UUID[Compendium.dnd5e.spells.Item.CylBa7jR8DSbo8Z3]{Zona di Verità}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{Dissolvere Magie}, @UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Faro di Speranza}</td></tr><tr><td>13</td><td>@UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Guardiano della Fede}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Libertà di Movimento}</td></tr><tr><td>17</td><td>@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Colonna di Fiamma}, @UUID[Compendium.dnd5e.spells.Item.d54VDyFulD9xxY7J]{Comunione}</td></tr></tbody></table>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     },
     "Path of the Berserker": {
-      "name": "Voie du berserker",
-      "description": "<p>Pour certains barbares, la rage est un moyen de parvenir à une fin… et cette fin est la violence. La voie du berserker est un chemin pavé de fureur débridée et poisseux de sang. Quand vous entrez dans la rage du berserker, tout à l’ivresse de la bataille, vous faites fi de votre santé comme de votre bien-être.</p>",
+      "name": "Sentiero del Berserker",
+      "description": "<p>Per certi barbari, l'ira è un mezzo per giungere a un fine... e questo fine è la violenza. Il sentiero del berserker è un cammino lastricato di furia sfrenata e appiccicoso di sangue. Quando entri nell'ira del berserker, completamente all'ebbrezza della battaglia, fai a meno della tua salute come del tuo benessere.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     },
     "School of Evocation": {
-      "name": "École de l'Évocation",
-      "description": "<p>Vos études magiques ont essentiellement porté sur les effets élémentaires les plus intenses, comme le gel le plus froid, les flammes les plus torrides, le tonnerre rugissant, les crépitements de la foudre et les corrosions de l’acide. Certains évocateurs œuvrent au service d’armées comme artilleurs spécialisés. D’autres mettent ces pouvoirs spectaculaires au service de la protection des opprimés tandis que certains, motivés par l’appât du gain, embrassent la carrière de bandit, d’aventurier ou d’apprenti tyran.</p>",
+      "name": "Scuola di Evocazione",
+      "description": "<p>I tuoi studi magici si sono essenzialmente concentrati sugli effetti elementali più intensi, come il gelo più freddo, le fiamme più torride, il tuono ruggente, i crepitii del fulmine e le corrosioni dell'acido. Alcuni evocatori operano al servizio di eserciti come artiglieri specializzati. Altri mettono questi poteri spettacolari al servizio della protezione degli oppressi mentre alcuni, motivati dalla sete di guadagno, abbracciano la carriera di bandito, avventuriero o aspirante tiranno.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     },
     "The Fiend": {
-      "name": "Le Fiélon",
-      "description": "<p>Vous avez conclu un pacte avec un fiélon des Plans Inférieurs, une entité tout entière vouée au mal, quand bien même vous auriez des objectifs radicalement opposés. De tels êtres sont mus par la soif de corrompre ou détruire toute forme de vie, vous y compris. Parmi les fiélons assez puissants pour conclure un tel pacte, citons des seigneurs démons tels Démogorgon, Orcus, Fraz’Urb-luu ou Baphomet ; des archidiables comme Asmodée, Dispater, Méphistophélès ou Bélial ; les plus puissants des diantrefosses et des balors ; les ultroloths et autres seigneurs des yugoloths.</p><h4>Liste de sorts étendue</h4><p>Le Fiélon vous permet de choisir dans une liste de sorts étendue lorsque vous apprenez un sort d’occultiste. Les sorts suivants s’ajoutent à la liste des sorts d’occultiste dans votre cas.</p><table><caption>Sorts étendus du Fiélon</caption><thead><tr><td>Niveau de sort</td><td>Sorts</td></tr></thead><tbody><tr><td>1</td><td>@UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{Injonction}, @UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{Main brûlante}</td></tr><tr><td>2</td><td>@UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{Cécité/Surdité}, @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{Rayon ardent}</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Boule de feu}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{Nuage nauséabond}</td></tr><tr><td>4</td><td>@UUID[Compendium.dnd5e.spells.Item.avD5XUtkBPQQR97c]{Bouclier de feu}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{Mur de feu}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Colonne de flamme}, @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{Sanctification}</td></tr></tbody></table>",
+      "name": "Il Demone",
+      "description": "<p>Hai concluso un patto con un immondo dei Piani Inferiori, un'entità interamente votata al male, anche se tu avessi obiettivi radicalmente opposti. Tali esseri sono mossi dalla sete di corrompere o distruggere ogni forma di vita, te compreso. Tra gli immondi abbastanza potenti da concludere un tale patto, figurano signori dei demoni quali Demogorgon, Orcus, Fraz'Urb-luu o Baphomet; arcidemoni come Asmodeus, Dispater, Mefistofele o Belial; i più potenti dei diavoli della fossa e dei balor; gli ultroloth e altri signori degli yugoloth.</p><h4>Lista incantesimi estesa</h4><p>Il Demone ti permette di scegliere da una lista incantesimi estesa quando apprendi un incantesimo da warlock. I seguenti incantesimi vengono aggiunti alla lista degli incantesimi da warlock nel tuo caso.</p><table><caption>Incantesimi Estesi del Demone</caption><thead><tr><td>Livello incantesimo</td><td>Incantesimi</td></tr></thead><tbody><tr><td>1</td><td>@UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{Comando}, @UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{Mani Brucianti}</td></tr><tr><td>2</td><td>@UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{Cecità/Sordità}, @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{Raggio Rovente}</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Palla di Fuoco}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{Nube Mortale}</td></tr><tr><td>4</td><td>@UUID[Compendium.dnd5e.spells.Item.avD5XUtkBPQQR97c]{Scudo di Fuoco}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{Muro di Fuoco}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Colonna di Fiamma}, @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{Santificare}</td></tr></tbody></table>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     },
     "Thief": {
-      "name": "Voleur",
-      "description": "<p>Votre savoir-faire s’oriente en premier lieu vers le larcin. Cambrioleurs, brigands, voleurs à la tire et autres criminels optent généralement pour cet archétype, ainsi que les roublards qui se voient plutôt comme des chasseurs de trésor professionnels, des explorateurs tout-terrain ou des enquêteurs. En plus de mettre l’accent sur l’agilité et la discrétion, vous apprenez des compétences utiles pour explorer les ruines oubliées, lire les langues exotiques et utiliser des objets magiques dont l’emploi vous serait interdit en temps normal.</p>",
+      "name": "Furfante",
+      "description": "<p>Il tuo know-how si orienta in primo luogo verso il furto. Scassinatori, briganti, borseggiatori e altri criminali optano generalmente per questo archetipo, così come i ladri che si vedono piuttosto come cacciatori di tesori professionisti, esploratori polivalenti o investigatori. Oltre a mettere l'accento sull'agilità e la discrezione, apprendi competenze utili per esplorare le rovine dimenticate, leggere le lingue esotiche e utilizzare oggetti magici il cui impiego ti sarebbe interdetto in tempi normali.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     },
     "Way of the Open Hand": {
-      "name": "Voie de la Paume",
-      "description": "<p>Les moines de la Voie de la Paume sont les maîtres incontestés des arts martiaux, qu’il s’agisse de combat armé ou non. Ils apprennent les techniques permettant de pousser et faire trébucher l’adversaire, emploient le ki à soigner les dégâts corporels et pratiquent une méditation avancée qui peut les protéger du mal.</p>",
+      "name": "Via della Mano Aperta",
+      "description": "<p>I monaci della Via della Mano Aperta sono i maestri incontestati delle arti marziali, che si tratti di combattimento armato o meno. Apprendono le tecniche che permettono di spingere e far inciampare l'avversario, impiegano il ki per curare i danni corporali e praticano una meditazione avanzata che può proteggerli dal male.</p>",
       "advancement": {
         "Features": {
-          "title": "Aptitudes"
+          "title": "Capacità"
         }
       }
     }
