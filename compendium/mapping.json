@@ -1,92 +1,92 @@
 {
-    "Actor": {
-        "alignment": "system.details.alignment",
-        "subtype": "system.details.type.subtype",
-        "languages": "system.traits.languages.custom",
-        "specialSenses": "system.attributes.senses.special",
-        "dr": "system.traits.dr.custom",
+    "Attore": {
+        "allineamento": "system.details.alignment",
+        "sottotipo": "system.details.type.subtype",
+        "lingue": "system.traits.languages.custom",
+        "sensiSpeciali": "system.attributes.senses.special",
+        "rd": "system.traits.dr.custom",
         "dv": "system.traits.dv.custom",
-        "ci": "system.traits.ci.custom",
-        "armorProf": "system.traits.armorProf.custom",
-        "tokenName": "prototypeToken.name",
+        "ic": "system.traits.ci.custom",
+        "compArmatura": "system.traits.armorProf.custom",
+        "nomeSegnalino": "prototypeToken.name",
         "habitat": "system.details.habitat.custom",
-        "senses": {
-            "path": "system.attributes.senses",
-            "converter": "senses"
+        "sensi": {
+            "percorso": "system.attributes.senses",
+            "convertitore": "senses"
         },
-        "movement": {
-            "path": "system.attributes.movement",
-            "converter": "movement"
+        "movimento": {
+            "percorso": "system.attributes.movement",
+            "convertitore": "movement"
         },
-        "token": {
-            "path": "prototypeToken.sight.range",
-            "converter": "sightRange"
+        "segnalino": {
+            "percorso": "prototypeToken.sight.range",
+            "convertitore": "sightRange"
         },
-        "items": {
-            "converter": "items",
-            "path": "items"
+        "oggetti": {
+            "convertitore": "items",
+            "percorso": "items"
         },
-        "effects": {
-            "path": "effects",
-            "converter": "effects"
+        "effetti": {
+            "percorso": "effects",
+            "convertitore": "effects"
         },
-        "communication": {
-            "path": "system.traits.languages.communication",
-            "converter": "communication"
+        "comunicazione": {
+            "percorso": "system.traits.languages.communication",
+            "convertitore": "communication"
         }
     },
-    "Item": {
-        "subtype": "system.type.subtype",
-        "requirements": "system.requirements",
-        "materials": "system.materials.value",
+    "Oggetto": {
+        "sottotipo": "system.type.subtype",
+        "requisiti": "system.requirements",
+        "materiali": "system.materials.value",
         "chat": "system.description.chat",
-        "movement": {
-            "path": "system.movement",
-            "converter": "movement"
+        "movimento": {
+            "percorso": "system.movement",
+            "convertitore": "movement"
         },
-        "senses": {
-            "path": "system.senses",
-            "converter": "senses"
+        "sensi": {
+            "percorso": "system.senses",
+            "convertitore": "senses"
         },
-        "advancement": {
-            "path": "system.advancement",
-            "converter": "advancement"
+        "avanzamento": {
+            "percorso": "system.advancement",
+            "convertitore": "advancement"
         },
-        "distanceAdvancement": {
-            "path": "system.advancement",
-            "converter": "distanceAdvancement"
+        "avanzamentoDistanza": {
+            "percorso": "system.advancement",
+            "convertitore": "distanceAdvancement"
         },
-        "rangeActivities": {
-            "path": "system.activities",
-            "converter": "rangeActivities"
+        "attivitaPortata": {
+            "percorso": "system.activities",
+            "convertitore": "rangeActivities"
         },
-        "effects": {
-            "path": "effects",
-            "converter": "effects"
+        "effetti": {
+            "percorso": "effects",
+            "convertitore": "effects"
         },
-        "activities": {
-            "path": "system.activities",
-            "converter": "activities"
+        "attivita": {
+            "percorso": "system.activities",
+            "convertitore": "activities"
         },
-        "weight": {
-            "path": "system.weight",
-            "converter": "weight"
+        "peso": {
+            "percorso": "system.weight",
+            "convertitore": "weight"
         },
-        "range": {
-            "path": "system.range",
-            "converter": "range"
+        "portata": {
+            "percorso": "system.range",
+            "convertitore": "range"
         },
-        "target": {
-            "path": "system.target",
-            "converter": "target"
+        "bersaglio": {
+            "percorso": "system.target",
+            "convertitore": "target"
         },
         "volume": {
-            "path": "system.capacity.volume",
-            "converter": "volume"
+            "percorso": "system.capacity.volume",
+            "convertitore": "volume"
         },
-        "capacityWeight": {
-            "path": "system.capacity.weight",
-            "converter": "weight"
+        "pesoCapacita": {
+            "percorso": "system.capacity.weight",
+            "convertitore": "weight"
         }
     }
 }
